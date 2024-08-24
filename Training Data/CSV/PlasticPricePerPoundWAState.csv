@@ -1,0 +1,1169 @@
+﻿UID,StateCode,StateName,County,City,Aggregator,PricePerPound,PricePerTon
+61697,WA,Washington,KING,Auburn,Algona,0.6600,1320
+61698,WA,Washington,KING,Auburn,Federal Way,0.5100,1020
+61699,WA,Washington,KING,Auburn,Auburn,0.4800,960
+61700,WA,Washington,KING,Federal Way,Federal Way,0.5300,1060
+61701,WA,Washington,KING,Federal Way,Auburn,0.5500,1100
+61702,WA,Washington,KING,Bellevue,Bellevue,0.6800,1360
+61703,WA,Washington,KING,Bellevue,Clyde Hill,0.6900,1380
+61704,WA,Washington,KING,Bellevue,Hunts Point,0.5900,1180
+61705,WA,Washington,KING,Bellevue,Beaux Arts,0.4900,980
+61706,WA,Washington,KING,Bellevue,Beaux Arts Village,0.6700,1340
+61707,WA,Washington,KING,Bellevue,Yarrow Point,0.5700,1140
+61708,WA,Washington,KING,Bellevue,Newport Hills,0.4600,920
+61709,WA,Washington,KING,Bellevue,Eastgate,0.4800,960
+61710,WA,Washington,KING,Black Diamond,Black Diamond,0.5100,1020
+61711,WA,Washington,KING,Black Diamond,Morganville,0.4500,900
+61712,WA,Washington,KING,Bothell,Inglewood,0.6500,1300
+61713,WA,Washington,KING,Bothell,Queensgate,0.6600,1320
+61714,WA,Washington,KING,Bothell,Bothell,0.5900,1180
+61715,WA,Washington,SNOHOMISH,Bothell,Bothell,0.4500,900
+61716,WA,Washington,SNOHOMISH,Bothell,Mill Creek,0.4600,920
+61717,WA,Washington,KING,Burton,Vashon,0.5800,1160
+61718,WA,Washington,KING,Burton,Burton,0.6400,1280
+61719,WA,Washington,KING,Carnation,Lake Joy,0.5800,1160
+61720,WA,Washington,KING,Carnation,Carnation,0.4500,900
+61721,WA,Washington,KING,Duvall,Duvall,0.6000,1200
+61722,WA,Washington,SNOHOMISH,Edmonds,Woodway,0.4800,960
+61723,WA,Washington,SNOHOMISH,Edmonds,Edmonds,0.5800,1160
+61724,WA,Washington,SNOHOMISH,Bothell,Kennard Corner,0.4900,980
+61725,WA,Washington,SNOHOMISH,Bothell,Thrashers Corner,0.4600,920
+61726,WA,Washington,SNOHOMISH,Bothell,Queensborough,0.6700,1340
+61727,WA,Washington,KING,Enumclaw,Greenwater,0.6300,1260
+61728,WA,Washington,KING,Enumclaw,Wabash,0.6400,1280
+61729,WA,Washington,KING,Enumclaw,Cumberland,0.5500,1100
+61730,WA,Washington,KING,Enumclaw,Osceola,0.7000,1400
+61731,WA,Washington,KING,Enumclaw,Enumclaw,0.4500,900
+61732,WA,Washington,KING,Enumclaw,Krain,0.6300,1260
+61733,WA,Washington,KING,Enumclaw,Crystal Mountain,0.6700,1340
+61734,WA,Washington,KING,Fall City,Lake Alice,0.5800,1160
+61735,WA,Washington,KING,Fall City,Fall City,0.4500,900
+61736,WA,Washington,KING,Fall City,Spring Glen,0.4700,940
+61737,WA,Washington,KING,Hobart,Hobart,0.5000,1000
+61738,WA,Washington,KING,Issaquah,Coal Creek,0.5100,1020
+61739,WA,Washington,KING,Issaquah,Issaquah,0.5800,1160
+61740,WA,Washington,KING,Issaquah,Pine Lake,0.4500,900
+61741,WA,Washington,KING,Kenmore,Kenmore,0.5100,1020
+61742,WA,Washington,KING,Kenmore,Bothell,0.5900,1180
+61743,WA,Washington,KING,Kent,Kent,0.6800,1360
+61744,WA,Washington,KING,Kent,Midway,0.6000,1200
+61745,WA,Washington,KING,Kent,Woodmont Beach,0.4500,900
+61746,WA,Washington,KING,Kirkland,Totem Lake,0.6200,1240
+61747,WA,Washington,KING,Kirkland,Houghton,0.5900,1180
+61748,WA,Washington,KING,Kirkland,Kirkland,0.5900,1180
+61749,WA,Washington,KING,Kirkland,Juanita,0.5600,1120
+61750,WA,Washington,KING,Kirkland,Kingsgate,0.5800,1160
+61751,WA,Washington,SNOHOMISH,Lynnwood,Brier,0.5000,1000
+61752,WA,Washington,SNOHOMISH,Lynnwood,Lynnwood,0.5900,1180
+61753,WA,Washington,KING,Maple Valley,Wilderness Village,0.6500,1300
+61754,WA,Washington,KING,Maple Valley,Maple Valley,0.4800,960
+61755,WA,Washington,KING,Maple Valley,Four Corners,0.5900,1180
+61756,WA,Washington,KING,Medina,Medina,0.5300,1060
+61757,WA,Washington,KING,Mercer Island,Mercer Island,0.5600,1120
+61758,WA,Washington,KING,Kent,Covington,0.5400,1080
+61759,WA,Washington,KING,Kent,Lake Sawyer,0.6900,1380
+61760,WA,Washington,SNOHOMISH,Mountlake Terrace,Mountlake Terrace,0.6300,1260
+61761,WA,Washington,SNOHOMISH,Mountlake Terrace,Mountlake Ter,0.7000,1400
+61762,WA,Washington,KING,North Bend,Denny Creek,0.6700,1340
+61763,WA,Washington,KING,North Bend,North Bend,0.5800,1160
+61764,WA,Washington,KING,North Bend,Cedar Falls,0.5200,1040
+61765,WA,Washington,KING,Pacific,Auburn,0.6200,1240
+61766,WA,Washington,KING,Pacific,Pacific,0.5600,1120
+61767,WA,Washington,KING,Preston,Preston,0.6600,1320
+61768,WA,Washington,KING,Ravensdale,Kanaskat,0.5300,1060
+61769,WA,Washington,KING,Ravensdale,Palmer,0.6800,1360
+61770,WA,Washington,KING,Ravensdale,Ravensdale,0.5100,1020
+61771,WA,Washington,KING,Redmond,Adelaide,0.7000,1400
+61772,WA,Washington,KING,Redmond,Avondale,0.4800,960
+61773,WA,Washington,KING,Redmond,Ames Lake,0.5600,1120
+61774,WA,Washington,KING,Redmond,Earlmount,0.6300,1260
+61775,WA,Washington,KING,Redmond,Redmond,0.6200,1240
+61776,WA,Washington,KING,Renton,Renton,0.4800,960
+61777,WA,Washington,KING,Renton,Highlands,0.5600,1120
+61778,WA,Washington,KING,Renton,Newcastle,0.7000,1400
+61779,WA,Washington,KING,Renton,Hazelwood,0.5000,1000
+61780,WA,Washington,KING,Renton,Kennydale,0.6700,1340
+61781,WA,Washington,KING,Renton,Fairwood,0.4500,900
+61782,WA,Washington,KING,Renton,Cascade,0.6900,1380
+61783,WA,Washington,KITSAP,Rollingbay,Manitou Beach,0.6300,1260
+61784,WA,Washington,KITSAP,Rollingbay,Rollingbay,0.6800,1360
+61785,WA,Washington,KING,Seahurst,Seahurst,0.6500,1300
+61786,WA,Washington,KING,Seahurst,Burien,0.5300,1060
+61787,WA,Washington,KING,Snoqualmie,Snoqualmie,0.6300,1260
+61788,WA,Washington,KITTITAS,Snoqualmie Pass,Alpental,0.5200,1040
+61789,WA,Washington,KITTITAS,Snoqualmie Pass,Hyak,0.5500,1100
+61790,WA,Washington,KITTITAS,Snoqualmie Pass,Snoqualmie Ps,0.4800,960
+61791,WA,Washington,KITTITAS,Snoqualmie Pass,Snoqualmie Pass,0.5900,1180
+61792,WA,Washington,KING,Vashon,Dockton,0.5600,1120
+61793,WA,Washington,KING,Vashon,Vashon Island,0.5400,1080
+61794,WA,Washington,KING,Vashon,Vashon,0.5100,1020
+61795,WA,Washington,KING,Woodinville,Cottage Lake,0.6500,1300
+61796,WA,Washington,KING,Woodinville,Woodinville,0.6700,1340
+61797,WA,Washington,KING,Sammamish,Redmond,0.5300,1060
+61798,WA,Washington,KING,Sammamish,Sammamish,0.6300,1260
+61799,WA,Washington,KING,Sammamish,Issaquah,0.6500,1300
+61800,WA,Washington,SNOHOMISH,Mill Creek,Mill Creek,0.5800,1160
+61801,WA,Washington,SNOHOMISH,Mill Creek,Bothell,0.6800,1360
+61802,WA,Washington,KING,Seattle,Seattle,0.5100,1020
+61803,WA,Washington,KING,Seattle,Times Square,0.6300,1260
+61804,WA,Washington,KING,Seattle,Broadway,0.6900,1380
+61805,WA,Washington,KING,Seattle,Capitol Hill,0.6900,1380
+61806,WA,Washington,KING,Seattle,Wallingford,0.6700,1340
+61807,WA,Washington,KING,Seattle,Greenwood,0.6700,1340
+61808,WA,Washington,KING,Seattle,International,0.5000,1000
+61809,WA,Washington,KING,Seattle,Pioneer Square,0.4600,920
+61810,WA,Washington,KING,Seattle,University,0.5100,1020
+61811,WA,Washington,KING,Seattle,White Center,0.6000,1200
+61812,WA,Washington,KING,Seattle,Ballard,0.6000,1200
+61813,WA,Washington,KING,Seattle,Tukwila,0.5100,1020
+61814,WA,Washington,KING,Seattle,Queen Anne,0.7000,1400
+61815,WA,Washington,KITSAP,Bainbridge Island,Bainbridge Is,0.5600,1120
+61816,WA,Washington,KITSAP,Bainbridge Island,Bainbridge Island,0.5000,1000
+61817,WA,Washington,KITSAP,Bainbridge Island,Seattle,0.6400,1280
+61818,WA,Washington,KING,Seattle,Madison Park,0.5000,1000
+61819,WA,Washington,KING,Seattle,Wedgwood,0.5100,1020
+61820,WA,Washington,KING,Seattle,Seattle Naval Support Activi,0.6700,1340
+61821,WA,Washington,KING,Seattle,West Seattle,0.5200,1040
+61822,WA,Washington,KING,Seattle,Crown Hill,0.6900,1380
+61823,WA,Washington,KING,Seattle,Columbia,0.6400,1280
+61824,WA,Washington,KING,Seattle,Interbay,0.4600,920
+61825,WA,Washington,KING,Seattle,East Union,0.4800,960
+61826,WA,Washington,KING,Seattle,Lake City,0.6000,1200
+61827,WA,Washington,KING,Seattle,Northgate,0.4900,980
+61828,WA,Washington,KING,Seattle,Westwood Village,0.5700,1140
+61829,WA,Washington,KING,Seattle,Reg Lib Handicapped,0.6500,1300
+61830,WA,Washington,KING,Seattle,Richmond Highlands,0.5400,1080
+61831,WA,Washington,KING,Seattle,Shoreline,0.6200,1240
+61832,WA,Washington,KING,Seattle,Bitter Lake,0.6400,1280
+61833,WA,Washington,KING,Seattle,Westwood,0.6400,1280
+61834,WA,Washington,KING,Seattle,Beacon Hill,0.6200,1240
+61835,WA,Washington,KING,Seattle,Burien,0.5000,1000
+61836,WA,Washington,KING,Seattle,Shorewood,0.6900,1380
+61837,WA,Washington,KING,Seattle,Des Moines,0.5700,1140
+61838,WA,Washington,KING,Seattle,Seatac,0.6500,1300
+61839,WA,Washington,KING,Seattle,Normandy Park,0.4500,900
+61840,WA,Washington,KING,Seattle,Lake Forest Park,0.6800,1360
+61841,WA,Washington,KING,Seattle,Forest Park,0.5400,1080
+61842,WA,Washington,KING,Seattle,Lk Forest Park,0.4600,920
+61843,WA,Washington,KING,Seattle,North City,0.5800,1160
+61844,WA,Washington,KING,Seattle,Lk Forest Pk,0.4600,920
+61845,WA,Washington,KING,Seattle,Seatac Airport,0.5000,1000
+61846,WA,Washington,KING,Seattle,Richmond Beach,0.4900,980
+61847,WA,Washington,KING,Seattle,Amazon.com,0.5100,1020
+61848,WA,Washington,KING,Seattle,The Highlands,0.5200,1040
+61849,WA,Washington,KING,Seattle,Skyway,0.6200,1240
+61850,WA,Washington,KING,Seattle,Bryn Mawr,0.5400,1080
+61851,WA,Washington,KING,Seattle,Macys,0.6300,1260
+61852,WA,Washington,KING,Seattle,Safeco Plaza,0.5000,1000
+61853,WA,Washington,KING,Seattle,Duwamish,0.4900,980
+61854,WA,Washington,KING,Seattle,Mcmicken Heights,0.6300,1260
+61855,WA,Washington,KING,Seattle,Riverton,0.4500,900
+61856,WA,Washington,KING,Seattle,Diagnos Techs Inc Mrs,0.6800,1360
+61857,WA,Washington,KING,Seattle,Capital One,0.4700,940
+61858,WA,Washington,KING,Seattle,Qwest,0.5100,1020
+61859,WA,Washington,KING,Seattle,Univ Of Washington,0.6800,1360
+61860,WA,Washington,KING,Seattle,Redondo Beach,0.5100,1020
+61861,WA,Washington,KING,Seattle,Magnolia,0.6300,1260
+61862,WA,Washington,KING,Seattle,Fort Lawton,0.5300,1060
+61863,WA,Washington,SNOHOMISH,Everett,Everett,0.5600,1120
+61864,WA,Washington,SNOHOMISH,Everett,Pinehurst,0.5700,1140
+61865,WA,Washington,SNOHOMISH,Everett,Lowell,0.6000,1200
+61866,WA,Washington,SNOHOMISH,Everett,Eastmont,0.5900,1180
+61867,WA,Washington,SNOHOMISH,Everett,Silver Lake,0.6900,1380
+61868,WA,Washington,SNOHOMISH,Everett,Naval Station Everett,0.4700,940
+61869,WA,Washington,WHATCOM,Acme,Acme,0.6900,1380
+61870,WA,Washington,WHATCOM,Acme,Saxon,0.6100,1220
+61871,WA,Washington,SKAGIT,Anacortes,Decatur Island,0.6300,1260
+61872,WA,Washington,SKAGIT,Anacortes,Similk Beach,0.6100,1220
+61873,WA,Washington,SKAGIT,Anacortes,Guemes,0.4700,940
+61874,WA,Washington,SKAGIT,Anacortes,Guemes Island,0.6500,1300
+61875,WA,Washington,SKAGIT,Anacortes,Anacortes,0.4600,920
+61876,WA,Washington,SAN JUAN,Blakely Island,Blakely Island,0.5800,1160
+61877,WA,Washington,SAN JUAN,Blakely Island,Anacortes,0.4800,960
+61878,WA,Washington,SAN JUAN,Blakely Island,Blakely Is,0.4700,940
+61879,WA,Washington,SNOHOMISH,Arlington,Smokey Point,0.6100,1220
+61880,WA,Washington,SNOHOMISH,Arlington,Bryant,0.5000,1000
+61881,WA,Washington,SNOHOMISH,Arlington,Arlington,0.6200,1240
+61882,WA,Washington,SNOHOMISH,Arlington,Oso,0.5500,1100
+61883,WA,Washington,KING,Baring,Baring,0.4800,960
+61884,WA,Washington,WHATCOM,Bellingham,Bellingham,0.5200,1040
+61885,WA,Washington,WHATCOM,Bellingham,Marietta,0.5700,1140
+61886,WA,Washington,WHATCOM,Bellingham,Chuckanut,0.5400,1080
+61887,WA,Washington,WHATCOM,Bellingham,Fairhaven,0.5500,1100
+61888,WA,Washington,WHATCOM,Bellingham,Bakerview,0.6800,1360
+61889,WA,Washington,WHATCOM,Bellingham,Silver Beach,0.5100,1020
+61890,WA,Washington,WHATCOM,Blaine,Birch Bay,0.5000,1000
+61891,WA,Washington,WHATCOM,Blaine,Blaine,0.7000,1400
+61892,WA,Washington,SKAGIT,Bow,Allen,0.4800,960
+61893,WA,Washington,SKAGIT,Bow,Bow,0.6700,1340
+61894,WA,Washington,SKAGIT,Bow,Samish Island,0.5300,1060
+61895,WA,Washington,SKAGIT,Bow,Edison,0.4500,900
+61896,WA,Washington,SKAGIT,Burlington,Upper Skagit Indian Reservat,0.5000,1000
+61897,WA,Washington,SKAGIT,Burlington,Burlington,0.6000,1200
+61898,WA,Washington,SKAGIT,Burlington,Alger,0.6200,1240
+61899,WA,Washington,SKAGIT,Clearlake,Clearlake,0.5300,1060
+61900,WA,Washington,ISLAND,Clinton,Clinton,0.5900,1180
+61901,WA,Washington,ISLAND,Clinton,Possession,0.5500,1100
+61902,WA,Washington,ISLAND,Clinton,Maxwelton,0.6500,1300
+61903,WA,Washington,SKAGIT,Concrete,Concrete,0.5300,1060
+61904,WA,Washington,SKAGIT,Conway,Conway,0.6000,1200
+61905,WA,Washington,ISLAND,Coupeville,Coupeville,0.5700,1140
+61906,WA,Washington,WHATCOM,Custer,Custer,0.4800,960
+61907,WA,Washington,SNOHOMISH,Darrington,Darrington,0.5500,1100
+61908,WA,Washington,SAN JUAN,Deer Harbor,Deer Harbor,0.5500,1100
+61909,WA,Washington,WHATCOM,Deming,Deming,0.6900,1380
+61910,WA,Washington,WHATCOM,Deming,Nooksack Indian Reservation,0.4800,960
+61911,WA,Washington,WHATCOM,Deming,Glacier,0.4900,980
+61912,WA,Washington,WHATCOM,Deming,Welcome,0.6100,1220
+61913,WA,Washington,WHATCOM,Deming,Kendall,0.5200,1040
+61914,WA,Washington,SAN JUAN,Eastsound,Eastsound,0.5500,1100
+61915,WA,Washington,WHATCOM,Everson,Strandell,0.5700,1140
+61916,WA,Washington,WHATCOM,Everson,Van Buren,0.5000,1000
+61917,WA,Washington,WHATCOM,Everson,Everson,0.6300,1260
+61918,WA,Washington,WHATCOM,Ferndale,Pleasant Valley,0.5200,1040
+61919,WA,Washington,WHATCOM,Ferndale,Ferndale,0.4600,920
+61920,WA,Washington,ISLAND,Freeland,Freeland,0.5700,1140
+61921,WA,Washington,SAN JUAN,Friday Harbor,San Juan Island,0.6700,1340
+61922,WA,Washington,SAN JUAN,Friday Harbor,Friday Harbor,0.4500,900
+61923,WA,Washington,SAN JUAN,Friday Harbor,Roche Harbor,0.4700,940
+61924,WA,Washington,SNOHOMISH,Gold Bar,Gold Bar,0.6500,1300
+61925,WA,Washington,SNOHOMISH,Granite Falls,Granite Falls,0.7000,1400
+61926,WA,Washington,ISLAND,Greenbank,Greenbank,0.6500,1300
+61927,WA,Washington,SKAGIT,Hamilton,Hamilton,0.6400,1280
+61928,WA,Washington,SNOHOMISH,Index,Index,0.4900,980
+61929,WA,Washington,SKAGIT,La Conner,La Conner,0.6800,1360
+61930,WA,Washington,SNOHOMISH,Lake Stevens,Lake Stevens,0.6500,1300
+61931,WA,Washington,SNOHOMISH,Lake Stevens,Hartford,0.6700,1340
+61932,WA,Washington,SNOHOMISH,North Lakewood,North Lakewood,0.6900,1380
+61933,WA,Washington,SNOHOMISH,North Lakewood,N Lakewood,0.6700,1340
+61934,WA,Washington,ISLAND,Langley,Langley,0.5300,1060
+61935,WA,Washington,SAN JUAN,Lopez Island,Lopez Island,0.5000,1000
+61936,WA,Washington,SAN JUAN,Lopez Island,Port Stanley,0.4500,900
+61937,WA,Washington,WHATCOM,Lummi Island,Lummi Island,0.6600,1320
+61938,WA,Washington,SKAGIT,Lyman,Lyman,0.6900,1380
+61939,WA,Washington,WHATCOM,Lynden,Lynden,0.4700,940
+61940,WA,Washington,WHATCOM,Maple Falls,Maple Falls,0.6200,1240
+61941,WA,Washington,SKAGIT,Marblemount,Marblemount,0.5500,1100
+61942,WA,Washington,SNOHOMISH,Marysville,Marysville,0.7000,1400
+61943,WA,Washington,SNOHOMISH,Marysville,Tulalip,0.5800,1160
+61944,WA,Washington,SNOHOMISH,Monroe,Monroe,0.5000,1000
+61945,WA,Washington,SNOHOMISH,Monroe,Novelty,0.6700,1340
+61946,WA,Washington,SKAGIT,Mount Vernon,Mount Vernon,0.5200,1040
+61947,WA,Washington,SNOHOMISH,Mukilteo,Mukilteo,0.5400,1080
+61948,WA,Washington,WHATCOM,Nooksack,Nooksack,0.4700,940
+61949,WA,Washington,WHATCOM,Nooksack,Everson,0.6400,1280
+61950,WA,Washington,ISLAND,Oak Harbor,Oak Harbor,0.5000,1000
+61951,WA,Washington,ISLAND,Oak Harbor,Ault Field,0.6300,1260
+61952,WA,Washington,ISLAND,Oak Harbor,Naval Air Station,0.5500,1100
+61953,WA,Washington,ISLAND,Oak Harbor,Nas Whidbey,0.6800,1360
+61954,WA,Washington,ISLAND,Oak Harbor,Whidbey Island Naval Air,0.5000,1000
+61955,WA,Washington,ISLAND,Oak Harbor,Whidbey Nas,0.5000,1000
+61956,WA,Washington,SAN JUAN,Olga,Doebay,0.5800,1160
+61957,WA,Washington,SAN JUAN,Olga,Olga,0.5400,1080
+61958,WA,Washington,SAN JUAN,Orcas,Orcas,0.7000,1400
+61959,WA,Washington,WHATCOM,Point Roberts,Point Roberts,0.5500,1100
+61960,WA,Washington,ISLAND,Camano Island,Stanwood,0.5000,1000
+61961,WA,Washington,ISLAND,Camano Island,Camano Island,0.6700,1340
+61962,WA,Washington,SKAGIT,Rockport,Rockport,0.5500,1100
+61963,WA,Washington,SKAGIT,Rockport,Diablo,0.4800,960
+61964,WA,Washington,SKAGIT,Rockport,Newhalem,0.6300,1260
+61965,WA,Washington,SKAGIT,Sedro Woolley,Sedro Woolley,0.5000,1000
+61966,WA,Washington,SAN JUAN,Shaw Island,Shaw Island,0.5300,1060
+61967,WA,Washington,SNOHOMISH,Silvana,Silvana,0.5900,1180
+61968,WA,Washington,KING,Skykomish,Skykomish,0.5100,1020
+61969,WA,Washington,KING,Skykomish,Grotto,0.6200,1240
+61970,WA,Washington,KING,Skykomish,Scenic,0.5600,1120
+61971,WA,Washington,SNOHOMISH,Snohomish,Larimers Corner,0.4600,920
+61972,WA,Washington,SNOHOMISH,Snohomish,Maltby,0.5900,1180
+61973,WA,Washington,SNOHOMISH,Snohomish,Snohomish,0.5500,1100
+61974,WA,Washington,SNOHOMISH,Snohomish,Machias,0.6900,1380
+61975,WA,Washington,SNOHOMISH,Snohomish,Clearview,0.5800,1160
+61976,WA,Washington,SNOHOMISH,Stanwood,Camano City,0.6500,1300
+61977,WA,Washington,SNOHOMISH,Stanwood,Elger Bay,0.6100,1220
+61978,WA,Washington,SNOHOMISH,Stanwood,Stanwood,0.6700,1340
+61979,WA,Washington,SNOHOMISH,Stanwood,Camano Island,0.4600,920
+61980,WA,Washington,SNOHOMISH,Startup,Startup,0.6200,1240
+61981,WA,Washington,SNOHOMISH,Sultan,Sultan,0.6900,1380
+61982,WA,Washington,WHATCOM,Sumas,Clearbrook,0.4500,900
+61983,WA,Washington,WHATCOM,Sumas,Sumas,0.5100,1020
+61984,WA,Washington,SAN JUAN,Waldron,Waldron,0.6400,1280
+61985,WA,Washington,PIERCE,Anderson Island,Anderson Is,0.6700,1340
+61986,WA,Washington,PIERCE,Anderson Island,Anderson Island,0.4700,940
+61987,WA,Washington,PIERCE,Anderson Island,Yoman Ferry,0.6900,1380
+61988,WA,Washington,PIERCE,Anderson Island,Villa Beach,0.5600,1120
+61989,WA,Washington,PIERCE,Ashford,National,0.4600,920
+61990,WA,Washington,PIERCE,Ashford,Ashford,0.6600,1320
+61991,WA,Washington,CLALLAM,Beaver,Beaver,0.5500,1100
+61992,WA,Washington,CLALLAM,Beaver,Sappho,0.4700,940
+61993,WA,Washington,KITSAP,Bremerton,Crosby,0.5000,1000
+61994,WA,Washington,KITSAP,Bremerton,Brownsville,0.5500,1100
+61995,WA,Washington,KITSAP,Bremerton,Gilberton,0.5900,1180
+61996,WA,Washington,KITSAP,Bremerton,Meadowdale,0.4700,940
+61997,WA,Washington,KITSAP,Bremerton,Bremerton,0.5100,1020
+61998,WA,Washington,KITSAP,Bremerton,Sheridan Park,0.4700,940
+61999,WA,Washington,KITSAP,Bremerton,East Bremerton,0.6300,1260
+62000,WA,Washington,KITSAP,Bremerton,Chico,0.4800,960
+62001,WA,Washington,KITSAP,Bremerton,Marine Drive,0.7000,1400
+62002,WA,Washington,KITSAP,Bremerton,West Park,0.6700,1340
+62003,WA,Washington,KITSAP,Bremerton,Camp Union,0.4500,900
+62004,WA,Washington,KITSAP,Bremerton,Enetai,0.4900,980
+62005,WA,Washington,KITSAP,Bremerton,Erlands Point,0.5700,1140
+62006,WA,Washington,KITSAP,Bremerton,Holly,0.6900,1380
+62007,WA,Washington,KITSAP,Bremerton,Wildcat Lake,0.5600,1120
+62008,WA,Washington,KITSAP,Bremerton,Kitsap Lake,0.4600,920
+62009,WA,Washington,KITSAP,Bremerton,Navy Yard City,0.5000,1000
+62010,WA,Washington,KITSAP,Bremerton,Rocky Point,0.4900,980
+62011,WA,Washington,KITSAP,Bremerton,Brem,0.5500,1100
+62012,WA,Washington,KITSAP,Bremerton,Puget Sound Naval Shipyard,0.6100,1220
+62013,WA,Washington,KITSAP,Silverdale,Silverdale,0.5700,1140
+62014,WA,Washington,KITSAP,Silverdale,Bangor,0.6200,1240
+62015,WA,Washington,KITSAP,Silverdale,Bangor Submarine Base,0.6200,1240
+62016,WA,Washington,JEFFERSON,Brinnon,Brinnon,0.6100,1220
+62017,WA,Washington,PIERCE,Buckley,Burnett,0.5100,1020
+62018,WA,Washington,PIERCE,Buckley,Buckley,0.4700,940
+62019,WA,Washington,KITSAP,Burley,Burley,0.6500,1300
+62020,WA,Washington,PIERCE,Carbonado,Carbonado,0.6700,1340
+62021,WA,Washington,CLALLAM,Carlsborg,Carlsborg,0.4600,920
+62022,WA,Washington,JEFFERSON,Chimacum,Shine,0.5800,1160
+62023,WA,Washington,JEFFERSON,Chimacum,Chimacum,0.6900,1380
+62024,WA,Washington,CLALLAM,Clallam Bay,Lake Ozette,0.5100,1020
+62025,WA,Washington,CLALLAM,Clallam Bay,Ozette,0.5500,1100
+62026,WA,Washington,CLALLAM,Clallam Bay,Clallam Bay,0.5100,1020
+62027,WA,Washington,PIERCE,Dupont,Dupont,0.5300,1060
+62028,WA,Washington,PIERCE,Eatonville,Alder,0.4900,980
+62029,WA,Washington,PIERCE,Eatonville,Eatonville,0.4500,900
+62030,WA,Washington,PIERCE,Gig Harbor,Gig Harbor,0.4700,940
+62031,WA,Washington,PIERCE,Elbe,Elbe,0.4700,940
+62032,WA,Washington,CLALLAM,Forks,Clearwater,0.4500,900
+62033,WA,Washington,CLALLAM,Forks,Upper Hoh,0.5100,1020
+62034,WA,Washington,CLALLAM,Forks,Kalalock,0.6100,1220
+62035,WA,Washington,CLALLAM,Forks,Bogachiel,0.6100,1220
+62036,WA,Washington,CLALLAM,Forks,Queets,0.5300,1060
+62037,WA,Washington,CLALLAM,Forks,Forks,0.6000,1200
+62038,WA,Washington,PIERCE,Fox Island,Fox Is,0.4500,900
+62039,WA,Washington,PIERCE,Fox Island,Fox Island,0.6200,1240
+62040,WA,Washington,PIERCE,Fox Island,Shorewood Beach,0.6000,1200
+62041,WA,Washington,PIERCE,Fox Island,Sylvan,0.6800,1360
+62042,WA,Washington,PIERCE,Gig Harbor,Key Center,0.4700,940
+62043,WA,Washington,PIERCE,Gig Harbor,Pt Fosdick,0.5900,1180
+62044,WA,Washington,PIERCE,Gig Harbor,Raft Is,0.6400,1280
+62045,WA,Washington,PIERCE,Gig Harbor,Sunny Bay,0.5100,1020
+62046,WA,Washington,PIERCE,Gig Harbor,Cromwell,0.6000,1200
+62047,WA,Washington,PIERCE,Gig Harbor,Elgin,0.6900,1380
+62048,WA,Washington,PIERCE,Gig Harbor,Arletta,0.6200,1240
+62049,WA,Washington,PIERCE,Gig Harbor,Victor,0.5400,1080
+62050,WA,Washington,PIERCE,Gig Harbor,Wauna Shores,0.6600,1320
+62051,WA,Washington,PIERCE,Gig Harbor,Artondale,0.6100,1220
+62052,WA,Washington,PIERCE,Gig Harbor,Raft Island,0.5000,1000
+62053,WA,Washington,PIERCE,Gig Harbor,Sunrise Beach,0.5700,1140
+62054,WA,Washington,PIERCE,Gig Harbor,Warren,0.4600,920
+62055,WA,Washington,PIERCE,Gig Harbor,Picnic Point,0.5900,1180
+62056,WA,Washington,PIERCE,Gig Harbor,Point Fosdick,0.4800,960
+62057,WA,Washington,PIERCE,Gig Harbor,Shore Acres,0.7000,1400
+62058,WA,Washington,PIERCE,Gig Harbor,Wollochet,0.5100,1020
+62059,WA,Washington,PIERCE,Gig Harbor,Crescent Valley,0.6700,1340
+62060,WA,Washington,PIERCE,Gig Harbor,Glencove,0.6500,1300
+62061,WA,Washington,PIERCE,Gig Harbor,Purdy,0.6100,1220
+62062,WA,Washington,PIERCE,Gig Harbor,Rosedale,0.6700,1340
+62063,WA,Washington,LEWIS,Glenoma,Carriage Hill,0.5800,1160
+62064,WA,Washington,LEWIS,Glenoma,Kosmos,0.6600,1320
+62065,WA,Washington,LEWIS,Glenoma,Glenoma,0.5100,1020
+62066,WA,Washington,KITSAP,Bremerton,Gorst,0.6500,1300
+62067,WA,Washington,PIERCE,Graham,Harbor Heights,0.6400,1280
+62068,WA,Washington,PIERCE,Graham,Thrift,0.6500,1300
+62069,WA,Washington,PIERCE,Graham,Graham,0.4700,940
+62070,WA,Washington,JEFFERSON,Port Hadlock,Hadlock,0.6500,1300
+62071,WA,Washington,JEFFERSON,Port Hadlock,Oak Bay,0.6900,1380
+62072,WA,Washington,JEFFERSON,Port Hadlock,Port Hadlock,0.6000,1200
+62073,WA,Washington,JEFFERSON,Port Hadlock,Irondale,0.5100,1020
+62074,WA,Washington,KITSAP,Hansville,Hansville,0.5700,1140
+62075,WA,Washington,KITSAP,Indianola,Indianola,0.7000,1400
+62076,WA,Washington,CLALLAM,Joyce,Crescent Beach,0.5600,1120
+62077,WA,Washington,CLALLAM,Joyce,Joyce,0.4800,960
+62078,WA,Washington,CLALLAM,Joyce,Agate Beach,0.5000,1000
+62079,WA,Washington,CLALLAM,Joyce,Crane,0.5500,1100
+62080,WA,Washington,PIERCE,Kapowsin,Kapowsin,0.5300,1060
+62081,WA,Washington,KITSAP,Keyport,Keyport,0.4600,920
+62082,WA,Washington,KITSAP,Kingston,Eglon,0.6600,1320
+62083,WA,Washington,KITSAP,Kingston,Kingston,0.5600,1120
+62084,WA,Washington,PIERCE,La Grande,La Grande,0.5700,1140
+62085,WA,Washington,PIERCE,Lakebay,Home,0.6400,1280
+62086,WA,Washington,PIERCE,Lakebay,Herron Island,0.5800,1160
+62087,WA,Washington,PIERCE,Lakebay,Herron Is,0.6400,1280
+62088,WA,Washington,PIERCE,Lakebay,Lakebay,0.5700,1140
+62089,WA,Washington,CLALLAM,La Push,La Push,0.6800,1360
+62090,WA,Washington,PIERCE,Longbranch,Lakebay,0.6900,1380
+62091,WA,Washington,PIERCE,Longbranch,Longbranch,0.5500,1100
+62092,WA,Washington,PIERCE,Sumner,Sumner,0.5800,1160
+62093,WA,Washington,PIERCE,REI,Rei,0.6400,1280
+62094,WA,Washington,PIERCE,Sumner,Recreational Equipment Inc,0.5500,1100
+62095,WA,Washington,KITSAP,Manchester,Manchester,0.5800,1160
+62096,WA,Washington,PIERCE,Milton,Milton,0.5300,1060
+62097,WA,Washington,LEWIS,Mineral,Carlson,0.6800,1360
+62098,WA,Washington,LEWIS,Mineral,Mineral,0.4900,980
+62099,WA,Washington,LEWIS,Morton,Lindberg,0.6700,1340
+62100,WA,Washington,LEWIS,Morton,Morton,0.6600,1320
+62101,WA,Washington,CLALLAM,Neah Bay,Makah AFB,0.4900,980
+62102,WA,Washington,CLALLAM,Neah Bay,Neah Bay,0.4500,900
+62103,WA,Washington,CLALLAM,Neah Bay,Cape Flattery,0.6400,1280
+62104,WA,Washington,CLALLAM,Neah Bay,Tatoosh Island,0.5700,1140
+62105,WA,Washington,CLALLAM,Neah Bay,Tatoosh Is,0.4500,900
+62106,WA,Washington,JEFFERSON,Nordland,Marrowstone Is,0.5100,1020
+62107,WA,Washington,JEFFERSON,Nordland,Indian Island,0.5900,1180
+62108,WA,Washington,JEFFERSON,Nordland,Marrowstone Island,0.5400,1080
+62109,WA,Washington,JEFFERSON,Nordland,Nordland,0.4800,960
+62110,WA,Washington,JEFFERSON,Nordland,Fort Flagler,0.6200,1240
+62111,WA,Washington,JEFFERSON,Nordland,Ft Flagler,0.5900,1180
+62112,WA,Washington,JEFFERSON,Nordland,Indian Is,0.7000,1400
+62113,WA,Washington,KITSAP,Olalla,Olalla,0.7000,1400
+62114,WA,Washington,KITSAP,Olalla,Fragaria,0.4900,980
+62115,WA,Washington,KITSAP,Olalla,Olalla Valley,0.5600,1120
+62116,WA,Washington,PIERCE,Orting,Orting,0.5500,1100
+62117,WA,Washington,PIERCE,Orting,Electron,0.5700,1140
+62118,WA,Washington,PIERCE,Orting,Ohop,0.5500,1100
+62119,WA,Washington,PIERCE,Orting,Crocker,0.6700,1340
+62120,WA,Washington,LEWIS,Packwood,Packwood,0.5700,1140
+62121,WA,Washington,CLALLAM,Port Angeles,Gales Addition,0.6000,1200
+62122,WA,Washington,CLALLAM,Port Angeles,Pt Angeles,0.5700,1140
+62123,WA,Washington,CLALLAM,Port Angeles,Mount Pleasant,0.5000,1000
+62124,WA,Washington,CLALLAM,Port Angeles,Lake Crescent,0.5600,1120
+62125,WA,Washington,CLALLAM,Port Angeles,Sol Duc Hot Springs,0.5100,1020
+62126,WA,Washington,CLALLAM,Port Angeles,Maple Grove,0.6900,1380
+62127,WA,Washington,CLALLAM,Port Angeles,Physt,0.6600,1320
+62128,WA,Washington,CLALLAM,Port Angeles,Agnew,0.6500,1300
+62129,WA,Washington,CLALLAM,Port Angeles,Fairholm,0.6000,1200
+62130,WA,Washington,CLALLAM,Port Angeles,Port Angeles,0.6600,1320
+62131,WA,Washington,CLALLAM,Port Angeles,Prt Angeles,0.6700,1340
+62132,WA,Washington,KITSAP,Port Gamble,Port Gamble,0.6300,1260
+62133,WA,Washington,KITSAP,Port Gamble,Little Boston,0.4900,980
+62134,WA,Washington,JEFFERSON,Port Ludlow,Port Ludlow,0.6100,1220
+62135,WA,Washington,JEFFERSON,Port Ludlow,Port Hadlock,0.6500,1300
+62136,WA,Washington,KITSAP,Port Orchard,Fernwood,0.5200,1040
+62137,WA,Washington,KITSAP,Port Orchard,Long Lake,0.6300,1260
+62138,WA,Washington,KITSAP,Port Orchard,Lake Holiday,0.5100,1020
+62139,WA,Washington,KITSAP,Port Orchard,Orchard Heights,0.7000,1400
+62140,WA,Washington,KITSAP,Port Orchard,Waterman,0.5200,1040
+62141,WA,Washington,KITSAP,Port Orchard,Overlook,0.4900,980
+62142,WA,Washington,KITSAP,Port Orchard,Parkwood,0.5800,1160
+62143,WA,Washington,KITSAP,Port Orchard,Pt Orchard,0.6900,1380
+62144,WA,Washington,KITSAP,Port Orchard,Colby,0.6100,1220
+62145,WA,Washington,KITSAP,Port Orchard,East Port Orchard,0.5200,1040
+62146,WA,Washington,KITSAP,Port Orchard,Horseshoe Lake,0.5900,1180
+62147,WA,Washington,KITSAP,Port Orchard,S Park Vil,0.5100,1020
+62148,WA,Washington,KITSAP,Port Orchard,Forest City,0.5200,1040
+62149,WA,Washington,KITSAP,Port Orchard,S Park Vlg,0.5400,1080
+62150,WA,Washington,KITSAP,Port Orchard,View Park,0.5300,1060
+62151,WA,Washington,KITSAP,Port Orchard,Wye Lake,0.5700,1140
+62152,WA,Washington,KITSAP,Port Orchard,South Park Village,0.5200,1040
+62153,WA,Washington,KITSAP,Port Orchard,Annapolis,0.5600,1120
+62154,WA,Washington,KITSAP,Port Orchard,Colchester,0.5100,1020
+62155,WA,Washington,KITSAP,Port Orchard,Sunnyslope,0.6100,1220
+62156,WA,Washington,KITSAP,Port Orchard,Wautauga Beach,0.4800,960
+62157,WA,Washington,KITSAP,Port Orchard,Port Orchard,0.6400,1280
+62158,WA,Washington,KITSAP,Port Orchard,Harper,0.5300,1060
+62159,WA,Washington,JEFFERSON,Port Townsend,Beckett Point,0.4900,980
+62160,WA,Washington,JEFFERSON,Port Townsend,Glen Cove,0.6400,1280
+62161,WA,Washington,JEFFERSON,Port Townsend,Townsend,0.5900,1180
+62162,WA,Washington,JEFFERSON,Port Townsend,Discovery Bay,0.6000,1200
+62163,WA,Washington,JEFFERSON,Port Townsend,Ft Worden,0.5100,1020
+62164,WA,Washington,JEFFERSON,Port Townsend,Protection Island,0.6600,1320
+62165,WA,Washington,JEFFERSON,Port Townsend,Fort Worden,0.4900,980
+62166,WA,Washington,JEFFERSON,Port Townsend,Leland,0.6000,1200
+62167,WA,Washington,JEFFERSON,Port Townsend,Pt Townsend,0.4500,900
+62168,WA,Washington,JEFFERSON,Port Townsend,Adelma Beach,0.4800,960
+62169,WA,Washington,JEFFERSON,Port Townsend,Mats Mats,0.6800,1360
+62170,WA,Washington,JEFFERSON,Port Townsend,Protection Is,0.6800,1360
+62171,WA,Washington,JEFFERSON,Port Townsend,Port Townsend,0.7000,1400
+62172,WA,Washington,KITSAP,Poulsbo,Sandy Hook Park,0.5100,1020
+62173,WA,Washington,KITSAP,Poulsbo,Breidablick,0.6400,1280
+62174,WA,Washington,KITSAP,Poulsbo,Virginia,0.5200,1040
+62175,WA,Washington,KITSAP,Poulsbo,Lofall,0.6000,1200
+62176,WA,Washington,KITSAP,Poulsbo,Pearson,0.5400,1080
+62177,WA,Washington,KITSAP,Poulsbo,Lemolo,0.6900,1380
+62178,WA,Washington,KITSAP,Poulsbo,Poulsbo,0.5900,1180
+62179,WA,Washington,KITSAP,Poulsbo,Central Valley,0.4500,900
+62180,WA,Washington,KITSAP,Poulsbo,Island Lake,0.6000,1200
+62181,WA,Washington,KITSAP,Poulsbo,Scandia,0.6800,1360
+62182,WA,Washington,PIERCE,Puyallup,Alderton,0.5100,1020
+62183,WA,Washington,PIERCE,Puyallup,Jovita,0.5900,1180
+62184,WA,Washington,PIERCE,Puyallup,Summit,0.5200,1040
+62185,WA,Washington,PIERCE,Puyallup,Firwood,0.4800,960
+62186,WA,Washington,PIERCE,Puyallup,Edgewood,0.5000,1000
+62187,WA,Washington,PIERCE,Puyallup,Puy,0.6900,1380
+62188,WA,Washington,PIERCE,Puyallup,Maplewood,0.5600,1120
+62189,WA,Washington,PIERCE,Puyallup,Meeker,0.6100,1220
+62190,WA,Washington,PIERCE,Puyallup,Puyallup,0.5900,1180
+62191,WA,Washington,PIERCE,Puyallup,South Hill,0.5400,1080
+62192,WA,Washington,JEFFERSON,Quilcene,East Quilcene,0.6500,1300
+62193,WA,Washington,JEFFERSON,Quilcene,Center,0.6900,1380
+62194,WA,Washington,JEFFERSON,Quilcene,Quilcene,0.4500,900
+62195,WA,Washington,JEFFERSON,Quilcene,Mount Walker,0.5500,1100
+62196,WA,Washington,JEFFERSON,Quilcene,Dabob,0.6400,1280
+62197,WA,Washington,LEWIS,Randle,Randle,0.5200,1040
+62198,WA,Washington,KITSAP,Retsil,Retsil,0.5000,1000
+62199,WA,Washington,KITSAP,Seabeck,Miami Beach,0.4700,940
+62200,WA,Washington,KITSAP,Seabeck,Seabeck,0.5800,1160
+62201,WA,Washington,KITSAP,Seabeck,Maple Beach,0.5500,1100
+62202,WA,Washington,CLALLAM,Sekiu,Sekiu,0.6600,1320
+62203,WA,Washington,CLALLAM,Sekiu,Hoko,0.6700,1340
+62204,WA,Washington,CLALLAM,Sequim,Diamond Pt,0.6700,1340
+62205,WA,Washington,CLALLAM,Sequim,Dungeness,0.5800,1160
+62206,WA,Washington,CLALLAM,Sequim,Gardiner,0.6000,1200
+62207,WA,Washington,CLALLAM,Sequim,Sequim,0.5500,1100
+62208,WA,Washington,CLALLAM,Sequim,Blyn,0.5100,1020
+62209,WA,Washington,CLALLAM,Sequim,Diamond Point,0.6700,1340
+62210,WA,Washington,KITSAP,Silverdale,Olympic View,0.5100,1020
+62211,WA,Washington,KITSAP,South Colby,South Colby,0.6300,1260
+62212,WA,Washington,PIERCE,South Prairie,South Prairie,0.6300,1260
+62213,WA,Washington,KITSAP,Southworth,Southworth,0.6600,1320
+62214,WA,Washington,PIERCE,Spanaway,Elk Plain,0.6900,1380
+62215,WA,Washington,PIERCE,Spanaway,Spanaway,0.6500,1300
+62216,WA,Washington,PIERCE,Spanaway,Loveland,0.6900,1380
+62217,WA,Washington,PIERCE,Spanaway,Bethel,0.6700,1340
+62218,WA,Washington,PIERCE,Steilacoom,Ketron Island,0.4900,980
+62219,WA,Washington,PIERCE,Steilacoom,Ketron Is,0.6900,1380
+62220,WA,Washington,PIERCE,Steilacoom,Mcneil Island,0.5500,1100
+62221,WA,Washington,PIERCE,Steilacoom,Steilacoom,0.5200,1040
+62222,WA,Washington,PIERCE,Sumner,Dieringer,0.7000,1400
+62223,WA,Washington,PIERCE,Sumner,Edgewood,0.7000,1400
+62224,WA,Washington,PIERCE,Bonney Lake,Inlet Island,0.6500,1300
+62225,WA,Washington,PIERCE,Bonney Lake,Lake Tapps,0.5200,1040
+62226,WA,Washington,PIERCE,Bonney Lake,Ponderosa Estates,0.5200,1040
+62227,WA,Washington,PIERCE,Bonney Lake,Prairie Ridge,0.6800,1360
+62228,WA,Washington,PIERCE,Bonney Lake,Tapps Island,0.6900,1380
+62229,WA,Washington,PIERCE,Bonney Lake,Sumner,0.5500,1100
+62230,WA,Washington,PIERCE,Bonney Lake,Snag Island,0.6000,1200
+62231,WA,Washington,PIERCE,Bonney Lake,Driftwood,0.4900,980
+62232,WA,Washington,PIERCE,Bonney Lake,Rhododendron Park,0.6800,1360
+62233,WA,Washington,PIERCE,Bonney Lake,Cedarview,0.6000,1200
+62234,WA,Washington,PIERCE,Bonney Lake,Bonney Lake,0.6900,1380
+62235,WA,Washington,PIERCE,Bonney Lake,Bonney Lk,0.5800,1160
+62236,WA,Washington,PIERCE,Bonney Lake,Lakeridge,0.6400,1280
+62237,WA,Washington,KITSAP,Suquamish,Suquamish,0.5500,1100
+62238,WA,Washington,KITSAP,Tracyton,Tracyton,0.5100,1020
+62239,WA,Washington,PIERCE,Vaughn,Vaughn,0.5900,1180
+62240,WA,Washington,PIERCE,Wauna,Wauna,0.6600,1320
+62241,WA,Washington,PIERCE,Wilkeson,Wilkeson,0.4600,920
+62242,WA,Washington,PIERCE,Longmire,Longmire,0.5400,1080
+62243,WA,Washington,PIERCE,Paradise Inn,Paradise Inn,0.5600,1120
+62244,WA,Washington,PIERCE,Paradise Inn,Paradise,0.5000,1000
+62245,WA,Washington,PIERCE,Tacoma,Tacoma,0.6700,1340
+62246,WA,Washington,PIERCE,Tacoma,Ruston,0.6300,1260
+62247,WA,Washington,PIERCE,Tacoma,Lakewood,0.4700,940
+62248,WA,Washington,PIERCE,Tacoma,University Of Puget Sound,0.5600,1120
+62249,WA,Washington,PIERCE,Tacoma,Browns Point,0.5300,1060
+62250,WA,Washington,PIERCE,Tacoma,Dash Point,0.5000,1000
+62251,WA,Washington,PIERCE,Tacoma,Fife,0.5300,1060
+62252,WA,Washington,PIERCE,Camp Murray,Camp Murray Natl Guard,0.4600,920
+62253,WA,Washington,PIERCE,Camp Murray,Camp Murray,0.5400,1080
+62254,WA,Washington,PIERCE,Camp Murray,Tacoma,0.5200,1040
+62255,WA,Washington,PIERCE,Tacoma,Joint Base Lewis Mcchord,0.6900,1380
+62256,WA,Washington,PIERCE,Tacoma,Lewis Mcchord,0.6800,1360
+62257,WA,Washington,PIERCE,Tacoma,Madigan Hosp,0.5800,1160
+62258,WA,Washington,PIERCE,Tacoma,Madigan Hospital,0.5000,1000
+62259,WA,Washington,PIERCE,Tacoma,Jb Lewis Mcchord,0.5400,1080
+62260,WA,Washington,PIERCE,JBLM,Jblm,0.5400,1080
+62261,WA,Washington,PIERCE,Tacoma,Madigan Army Medical Center,0.5600,1120
+62262,WA,Washington,PIERCE,Tacoma,Ft Lewis,0.6900,1380
+62263,WA,Washington,PIERCE,Tacoma,Fort Lewis,0.4900,980
+62264,WA,Washington,PIERCE,Mcchord AFB,Joint Base Lewis Mcchord,0.6500,1300
+62265,WA,Washington,PIERCE,Mcchord AFB,Lewis Mcchord,0.6700,1340
+62266,WA,Washington,PIERCE,Mcchord AFB,Jb Lewis Mcchord,0.5100,1020
+62267,WA,Washington,PIERCE,Mcchord AFB,Tacoma,0.5800,1160
+62268,WA,Washington,PIERCE,Mcchord AFB,Mcchord AFB,0.6000,1200
+62269,WA,Washington,PIERCE,Lakewood,Joint Base Lewis Mcchord,0.6500,1300
+62270,WA,Washington,PIERCE,Lakewood,Lakewood,0.5300,1060
+62271,WA,Washington,PIERCE,Lakewood,Mc Chord AFB,0.7000,1400
+62272,WA,Washington,PIERCE,Lakewood,Tacoma,0.5200,1040
+62273,WA,Washington,PIERCE,Lakewood,Jb Lewis Mcchord,0.5800,1160
+62274,WA,Washington,PIERCE,Lakewood,Lewis Mcchord,0.7000,1400
+62275,WA,Washington,PIERCE,Lakewood,Mcchord AFB,0.6700,1340
+62276,WA,Washington,PIERCE,Tacoma,Parkland,0.6300,1260
+62277,WA,Washington,PIERCE,Tacoma,Pacific Lutheran University,0.5600,1120
+62278,WA,Washington,PIERCE,Tacoma,University Place,0.4800,960
+62279,WA,Washington,PIERCE,Tacoma,University Pl,0.5400,1080
+62280,WA,Washington,PIERCE,Tacoma,Fircrest,0.6700,1340
+62281,WA,Washington,PIERCE,University Place,University Place,0.6300,1260
+62282,WA,Washington,PIERCE,University Place,Tacoma,0.6700,1340
+62283,WA,Washington,PIERCE,University Place,University Pl,0.6000,1200
+62284,WA,Washington,PIERCE,Tacoma,World Vision Brm,0.5700,1140
+62285,WA,Washington,PIERCE,Tacoma,World Vision,0.5500,1100
+62286,WA,Washington,PIERCE,Tacoma,Veterans Hospital,0.5400,1080
+62287,WA,Washington,PIERCE,Lakewood,Oakbrook,0.4500,900
+62288,WA,Washington,PIERCE,Lakewood,Fort Steilacoom,0.5500,1100
+62289,WA,Washington,THURSTON,Olympia,Tumwater,0.4600,920
+62290,WA,Washington,THURSTON,Olympia,Nisqually,0.7000,1400
+62291,WA,Washington,THURSTON,Olympia,South Bay,0.6300,1260
+62292,WA,Washington,THURSTON,Olympia,Union Mills,0.6800,1360
+62293,WA,Washington,THURSTON,Olympia,Olympia,0.5600,1120
+62294,WA,Washington,THURSTON,Olympia,Boston Harbor,0.6900,1380
+62295,WA,Washington,THURSTON,Olympia,Oly,0.4800,960
+62296,WA,Washington,THURSTON,Olympia,Schneiders Prairie,0.5400,1080
+62297,WA,Washington,THURSTON,Olympia,Maytown,0.6900,1380
+62298,WA,Washington,THURSTON,Olympia,South Sound,0.5300,1060
+62299,WA,Washington,THURSTON,Olympia,Thompson Place,0.4500,900
+62300,WA,Washington,THURSTON,Olympia,Offutt Lake,0.4900,980
+62301,WA,Washington,THURSTON,Lacey,Olympia,0.6000,1200
+62302,WA,Washington,THURSTON,Lacey,Lacey,0.6400,1280
+62303,WA,Washington,THURSTON,Olympia,Washington State Department,0.4700,940
+62304,WA,Washington,THURSTON,Olympia,Evergreen State College,0.6400,1280
+62305,WA,Washington,THURSTON,Olympia,Lacey,0.5700,1140
+62306,WA,Washington,THURSTON,Tumwater,Olympia,0.5900,1180
+62307,WA,Washington,THURSTON,Tumwater,Tumwater,0.6700,1340
+62308,WA,Washington,GRAYS HARBOR,Aberdeen,Aberdeen Gardens,0.5100,1020
+62309,WA,Washington,GRAYS HARBOR,Aberdeen,Bay City,0.4700,940
+62310,WA,Washington,GRAYS HARBOR,Aberdeen,Aberdeen,0.5500,1100
+62311,WA,Washington,GRAYS HARBOR,Aberdeen,Wishkah,0.5800,1160
+62312,WA,Washington,GRAYS HARBOR,Aberdeen,Central Park,0.5600,1120
+62313,WA,Washington,GRAYS HARBOR,Aberdeen,Junction City,0.5200,1040
+62314,WA,Washington,GRAYS HARBOR,Aberdeen,Markham,0.5700,1140
+62315,WA,Washington,GRAYS HARBOR,Aberdeen,Ocosta,0.6900,1380
+62316,WA,Washington,GRAYS HARBOR,Aberdeen,South Aberdeen,0.4600,920
+62317,WA,Washington,GRAYS HARBOR,Aberdeen,Bench Drive,0.5100,1020
+62318,WA,Washington,LEWIS,Adna,Adna,0.6500,1300
+62319,WA,Washington,MASON,Allyn,Allyn,0.4800,960
+62320,WA,Washington,GRAYS HARBOR,Amanda Park,Amanda Park,0.6000,1200
+62321,WA,Washington,PACIFIC,Bay Center,Bay Center,0.5800,1160
+62322,WA,Washington,MASON,Belfair,Belfair,0.4800,960
+62323,WA,Washington,THURSTON,Bucoda,Bucoda,0.7000,1400
+62324,WA,Washington,LEWIS,Centralia,Fords Prairie,0.5000,1000
+62325,WA,Washington,LEWIS,Centralia,Grand Mound,0.5200,1040
+62326,WA,Washington,LEWIS,Centralia,Waunch Prairie,0.5400,1080
+62327,WA,Washington,LEWIS,Centralia,Centralia,0.4600,920
+62328,WA,Washington,LEWIS,Chehalis,Claquato,0.4900,980
+62329,WA,Washington,LEWIS,Chehalis,Napavine,0.5700,1140
+62330,WA,Washington,LEWIS,Chehalis,Boistfort,0.4700,940
+62331,WA,Washington,LEWIS,Chehalis,Forest,0.4600,920
+62332,WA,Washington,LEWIS,Chehalis,Ceres,0.5900,1180
+62333,WA,Washington,LEWIS,Chehalis,Dryad,0.6600,1320
+62334,WA,Washington,LEWIS,Chehalis,Littell,0.6700,1340
+62335,WA,Washington,LEWIS,Chehalis,Bunker,0.5600,1120
+62336,WA,Washington,LEWIS,Chehalis,Newaukum,0.5100,1020
+62337,WA,Washington,LEWIS,Chehalis,Guerrier,0.4500,900
+62338,WA,Washington,LEWIS,Chehalis,Chehalis,0.5500,1100
+62339,WA,Washington,LEWIS,Chehalis,Marys Corner,0.5800,1160
+62340,WA,Washington,LEWIS,Cinebar,Cinebar,0.5400,1080
+62341,WA,Washington,GRAYS HARBOR,Copalis Beach,Copalis Beach,0.5000,1000
+62342,WA,Washington,GRAYS HARBOR,Copalis Crossing,Copalis Crossing,0.4600,920
+62343,WA,Washington,GRAYS HARBOR,Copalis Crossing,Carlisle,0.6800,1360
+62344,WA,Washington,GRAYS HARBOR,Copalis Crossing,Copalis Xing,0.5800,1160
+62345,WA,Washington,GRAYS HARBOR,Cosmopolis,Cosmopolis,0.7000,1400
+62346,WA,Washington,LEWIS,Curtis,Klaber,0.6000,1200
+62347,WA,Washington,LEWIS,Curtis,Wildwood,0.5600,1120
+62348,WA,Washington,LEWIS,Curtis,Curtis,0.4800,960
+62349,WA,Washington,LEWIS,Curtis,Kalber,0.7000,1400
+62350,WA,Washington,LEWIS,Doty,Doty,0.4900,980
+62351,WA,Washington,THURSTON,East Olympia,East Olympia,0.5400,1080
+62352,WA,Washington,THURSTON,East Olympia,Kellys Korner,0.6400,1280
+62353,WA,Washington,GRAYS HARBOR,Elma,Elma,0.5400,1080
+62354,WA,Washington,GRAYS HARBOR,Elma,Saginaw,0.4800,960
+62355,WA,Washington,GRAYS HARBOR,Elma,Deckerville,0.6700,1340
+62356,WA,Washington,GRAYS HARBOR,Elma,Whites,0.6300,1260
+62357,WA,Washington,GRAYS HARBOR,Elma,South Elma,0.5000,1000
+62358,WA,Washington,LEWIS,Ethel,Ethel,0.6700,1340
+62359,WA,Washington,LEWIS,Galvin,Galvin,0.6500,1300
+62360,WA,Washington,MASON,Grapeview,Grapeview,0.4600,920
+62361,WA,Washington,GRAYS HARBOR,Grayland,Heather,0.5700,1140
+62362,WA,Washington,GRAYS HARBOR,Grayland,Grayland,0.6900,1380
+62363,WA,Washington,MASON,Hoodsport,Hoodsport,0.4600,920
+62364,WA,Washington,MASON,Hoodsport,Cushman Dam,0.5700,1140
+62365,WA,Washington,GRAYS HARBOR,Hoquiam,Newton,0.5900,1180
+62366,WA,Washington,GRAYS HARBOR,Hoquiam,New London,0.6800,1360
+62367,WA,Washington,GRAYS HARBOR,Hoquiam,Grays Harbor City,0.6500,1300
+62368,WA,Washington,GRAYS HARBOR,Hoquiam,Woodlawn,0.6500,1300
+62369,WA,Washington,GRAYS HARBOR,Hoquiam,Nisson,0.4900,980
+62370,WA,Washington,GRAYS HARBOR,Hoquiam,Hoquiam,0.6300,1260
+62371,WA,Washington,GRAYS HARBOR,Hoquiam,Chenois Creek,0.6000,1200
+62372,WA,Washington,GRAYS HARBOR,Hoquiam,Gray Gables,0.6900,1380
+62373,WA,Washington,GRAYS HARBOR,Hoquiam,Oyhat,0.4600,920
+62374,WA,Washington,GRAYS HARBOR,Humptulips,Humptulips,0.6300,1260
+62375,WA,Washington,PACIFIC,Lebam,Lebam,0.4600,920
+62376,WA,Washington,MASON,Lilliwaup,Eldon,0.4900,980
+62377,WA,Washington,MASON,Lilliwaup,Lilliwaup,0.6200,1240
+62378,WA,Washington,THURSTON,Littlerock,Littlerock,0.6900,1380
+62379,WA,Washington,GRAYS HARBOR,Mccleary,Garden City,0.6100,1220
+62380,WA,Washington,GRAYS HARBOR,Mccleary,Hillgrove,0.6900,1380
+62381,WA,Washington,GRAYS HARBOR,Mccleary,Mccleary,0.5100,1020
+62382,WA,Washington,GRAYS HARBOR,Mccleary,Mc Cleary,0.6100,1220
+62383,WA,Washington,PIERCE,Mckenna,Mckenna,0.5100,1020
+62384,WA,Washington,PIERCE,Mckenna,Mc Kenna,0.7000,1400
+62385,WA,Washington,GRAYS HARBOR,Malone,Malone,0.5800,1160
+62386,WA,Washington,MASON,Matlock,Matlock,0.5600,1120
+62387,WA,Washington,PACIFIC,Menlo,Menlo,0.5600,1120
+62388,WA,Washington,GRAYS HARBOR,Moclips,Moclips,0.6100,1220
+62389,WA,Washington,GRAYS HARBOR,Montesano,Montesano,0.6100,1220
+62390,WA,Washington,GRAYS HARBOR,Montesano,Alder Grove,0.4700,940
+62391,WA,Washington,GRAYS HARBOR,Montesano,Brady,0.5500,1100
+62392,WA,Washington,GRAYS HARBOR,Montesano,Grisdale,0.6400,1280
+62393,WA,Washington,GRAYS HARBOR,Montesano,Melbourne,0.4600,920
+62394,WA,Washington,GRAYS HARBOR,Montesano,Preachers Slough,0.6300,1260
+62395,WA,Washington,GRAYS HARBOR,Montesano,South Montesano,0.4800,960
+62396,WA,Washington,LEWIS,Mossyrock,Mossyrock,0.4800,960
+62397,WA,Washington,LEWIS,Mossyrock,Ajlune,0.6700,1340
+62398,WA,Washington,LEWIS,Napavine,Napavine,0.6300,1260
+62399,WA,Washington,GRAYS HARBOR,Neilton,Neilton,0.6700,1340
+62400,WA,Washington,GRAYS HARBOR,Oakville,Cedarville,0.6800,1360
+62401,WA,Washington,GRAYS HARBOR,Oakville,Gibson Creek,0.4700,940
+62402,WA,Washington,GRAYS HARBOR,Oakville,Oakville,0.5200,1040
+62403,WA,Washington,GRAYS HARBOR,Ocean Shores,Ocean Shores,0.4700,940
+62404,WA,Washington,GRAYS HARBOR,Ocean Shores,Ocean City,0.5400,1080
+62405,WA,Washington,LEWIS,Onalaska,Alpha,0.7000,1400
+62406,WA,Washington,LEWIS,Onalaska,Onalaska,0.6300,1260
+62407,WA,Washington,LEWIS,Onalaska,Lacamas,0.5100,1020
+62408,WA,Washington,GRAYS HARBOR,Pacific Beach,Pacific Beach,0.6000,1200
+62409,WA,Washington,GRAYS HARBOR,Pacific Beach,Aloha,0.5400,1080
+62410,WA,Washington,LEWIS,Pe Ell,Pe Ell,0.5400,1080
+62411,WA,Washington,LEWIS,Pe Ell,Peell,0.6600,1320
+62412,WA,Washington,GRAYS HARBOR,Quinault,Quinault,0.6800,1360
+62413,WA,Washington,THURSTON,Rainier,Vail,0.5300,1060
+62414,WA,Washington,THURSTON,Rainier,Rainier,0.5700,1140
+62415,WA,Washington,PACIFIC,Raymond,Old Willapa,0.6600,1320
+62416,WA,Washington,PACIFIC,Raymond,Frances,0.4600,920
+62417,WA,Washington,PACIFIC,Raymond,Willapa,0.6300,1260
+62418,WA,Washington,PACIFIC,Raymond,Raymond,0.5800,1160
+62419,WA,Washington,PACIFIC,Raymond,Firdale,0.6000,1200
+62420,WA,Washington,PACIFIC,Raymond,Holcomb,0.5000,1000
+62421,WA,Washington,THURSTON,Rochester,Gate,0.5800,1160
+62422,WA,Washington,THURSTON,Rochester,Rochester,0.5700,1140
+62423,WA,Washington,PIERCE,Roy,Roy,0.4500,900
+62424,WA,Washington,COWLITZ,Ryderwood,Ryderwood,0.6800,1360
+62425,WA,Washington,LEWIS,Salkum,Salkum,0.5200,1040
+62426,WA,Washington,GRAYS HARBOR,Satsop,Satsop,0.6000,1200
+62427,WA,Washington,MASON,Shelton,Kamilche,0.5300,1060
+62428,WA,Washington,MASON,Shelton,Skokomish Nation,0.6700,1340
+62429,WA,Washington,MASON,Shelton,Shelton,0.5000,1000
+62430,WA,Washington,MASON,Shelton,Skok,0.5600,1120
+62431,WA,Washington,MASON,Shelton,Harstine,0.6000,1200
+62432,WA,Washington,MASON,Shelton,Skokomish,0.6900,1380
+62433,WA,Washington,LEWIS,Silver Creek,Harmony,0.4800,960
+62434,WA,Washington,LEWIS,Silver Creek,Silver Creek,0.4800,960
+62435,WA,Washington,PACIFIC,South Bend,South Bend,0.6600,1320
+62436,WA,Washington,PACIFIC,South Bend,Nemah,0.4500,900
+62437,WA,Washington,GRAYS HARBOR,Taholah,Taholah,0.5800,1160
+62438,WA,Washington,MASON,Tahuya,Tahuya,0.5600,1120
+62439,WA,Washington,THURSTON,Tenino,Tenino,0.6400,1280
+62440,WA,Washington,PACIFIC,Tokeland,North Cove,0.6800,1360
+62441,WA,Washington,PACIFIC,Tokeland,Tokeland,0.6200,1240
+62442,WA,Washington,LEWIS,Toledo,Knab,0.7000,1400
+62443,WA,Washington,LEWIS,Toledo,Toledo,0.6300,1260
+62444,WA,Washington,MASON,Union,Union,0.6700,1340
+62445,WA,Washington,LEWIS,Vader,Vader,0.7000,1400
+62446,WA,Washington,GRAYS HARBOR,Westport,Cohasset Beach,0.6300,1260
+62447,WA,Washington,GRAYS HARBOR,Westport,Westport,0.5600,1120
+62448,WA,Washington,LEWIS,Winlock,Evaline,0.5100,1020
+62449,WA,Washington,LEWIS,Winlock,Saint Urbans,0.6700,1340
+62450,WA,Washington,LEWIS,Winlock,Winlock,0.7000,1400
+62451,WA,Washington,THURSTON,Yelm,Yelm,0.4700,940
+62452,WA,Washington,THURSTON,Olympia,Olympia Brm,0.5700,1140
+62453,WA,Washington,CLARK,Amboy,Amboy,0.6600,1320
+62454,WA,Washington,CLARK,Amboy,Chelatchie,0.6200,1240
+62455,WA,Washington,KLICKITAT,Appleton,Appleton,0.4700,940
+62456,WA,Washington,COWLITZ,Ariel,Ariel,0.4600,920
+62457,WA,Washington,COWLITZ,Ariel,Yale,0.6000,1200
+62458,WA,Washington,CLARK,Battle Ground,Battle Ground,0.6000,1200
+62459,WA,Washington,CLARK,Battle Ground,Battleground,0.6300,1260
+62460,WA,Washington,KLICKITAT,Bingen,Cook,0.5600,1120
+62461,WA,Washington,KLICKITAT,Bingen,Bingen,0.6600,1320
+62462,WA,Washington,CLARK,Brush Prairie,Brush Prairie,0.5000,1000
+62463,WA,Washington,CLARK,Camas,Camas,0.5500,1100
+62464,WA,Washington,COWLITZ,Carrolls,Carrolls,0.5800,1160
+62465,WA,Washington,SKAMANIA,Carson,Carson,0.5500,1100
+62466,WA,Washington,COWLITZ,Castle Rock,Castle Rock,0.5200,1040
+62467,WA,Washington,WAHKIAKUM,Cathlamet,Cathlamet,0.4700,940
+62468,WA,Washington,WAHKIAKUM,Cathlamet,Puget Island,0.6100,1220
+62469,WA,Washington,KLICKITAT,Centerville,Centerville,0.5700,1140
+62470,WA,Washington,PACIFIC,Chinook,Chinook,0.5400,1080
+62471,WA,Washington,COWLITZ,Cougar,Cougar,0.5400,1080
+62472,WA,Washington,KLICKITAT,Dallesport,Dallesport,0.5800,1160
+62473,WA,Washington,KLICKITAT,Glenwood,Glenwood,0.6900,1380
+62474,WA,Washington,KLICKITAT,Goldendale,Goldendale,0.6800,1360
+62475,WA,Washington,KLICKITAT,Goldendale,Maryhill,0.5800,1160
+62476,WA,Washington,WAHKIAKUM,Grays River,Grays River,0.5200,1040
+62477,WA,Washington,CLARK,Heisson,Heisson,0.4500,900
+62478,WA,Washington,KLICKITAT,Husum,Husum,0.5100,1020
+62479,WA,Washington,PACIFIC,Ilwaco,Ilwaco,0.5600,1120
+62480,WA,Washington,COWLITZ,Kalama,Kalama,0.6000,1200
+62481,WA,Washington,COWLITZ,Kelso,Kelso,0.6200,1240
+62482,WA,Washington,KLICKITAT,Klickitat,Klickitat,0.4900,980
+62483,WA,Washington,CLARK,La Center,La Center,0.5800,1160
+62484,WA,Washington,PACIFIC,Long Beach,Long Beach,0.4700,940
+62485,WA,Washington,PACIFIC,Long Beach,Oceanside,0.5200,1040
+62486,WA,Washington,COWLITZ,Longview,Longview,0.5100,1020
+62487,WA,Washington,KLICKITAT,Lyle,Lyle,0.6200,1240
+62488,WA,Washington,PACIFIC,Nahcotta,Nahcotta,0.5700,1140
+62489,WA,Washington,PACIFIC,Naselle,Naselle,0.5200,1040
+62490,WA,Washington,SKAMANIA,North Bonneville,N Bonneville,0.4800,960
+62491,WA,Washington,SKAMANIA,North Bonneville,North Bonneville,0.6000,1200
+62492,WA,Washington,PACIFIC,Ocean Park,Ocean Park,0.4900,980
+62493,WA,Washington,PACIFIC,Oysterville,Oysterville,0.4800,960
+62494,WA,Washington,CLARK,Ridgefield,Ridgefield,0.5700,1140
+62495,WA,Washington,WAHKIAKUM,Rosburg,Rosburg,0.6900,1380
+62496,WA,Washington,PACIFIC,Seaview,Seaview,0.5400,1080
+62497,WA,Washington,COWLITZ,Silverlake,Silverlake,0.4600,920
+62498,WA,Washington,WAHKIAKUM,Skamokawa,Skamokawa,0.5300,1060
+62499,WA,Washington,SKAMANIA,Stevenson,Stevenson,0.6600,1320
+62500,WA,Washington,SKAMANIA,Stevenson,Skamania,0.5600,1120
+62501,WA,Washington,COWLITZ,Toutle,Toutle,0.5400,1080
+62502,WA,Washington,KLICKITAT,Trout Lake,Trout Lake,0.4700,940
+62503,WA,Washington,KLICKITAT,Trout Lake,Troutlake,0.6200,1240
+62504,WA,Washington,SKAMANIA,Underwood,Underwood,0.5700,1140
+62505,WA,Washington,CLARK,Vancouver,Vancouver,0.5100,1020
+62506,WA,Washington,CLARK,Vancouver,Orchards,0.5900,1180
+62507,WA,Washington,KLICKITAT,Wahkiacus,Wahkiacus,0.5100,1020
+62508,WA,Washington,KLICKITAT,Wahkiacus,Klickitat,0.6300,1260
+62509,WA,Washington,CLARK,Washougal,Washougal,0.6300,1260
+62510,WA,Washington,KLICKITAT,White Salmon,White Salmon,0.6300,1260
+62511,WA,Washington,KLICKITAT,Wishram,Wishram,0.5100,1020
+62512,WA,Washington,COWLITZ,Woodland,Woodland,0.6000,1200
+62513,WA,Washington,CLARK,Yacolt,Yacolt,0.4900,980
+62514,WA,Washington,CHELAN,Wenatchee,Mission Square,0.5700,1140
+62515,WA,Washington,CHELAN,Wenatchee,Appleyard,0.6400,1280
+62516,WA,Washington,CHELAN,Wenatchee,Wenatchee Heights,0.7000,1400
+62517,WA,Washington,CHELAN,Wenatchee,West Wenatchee,0.4900,980
+62518,WA,Washington,CHELAN,Wenatchee,Kenroy,0.6400,1280
+62519,WA,Washington,CHELAN,Wenatchee,Grant Road Addition,0.5100,1020
+62520,WA,Washington,CHELAN,Wenatchee,Pearcot,0.6200,1240
+62521,WA,Washington,CHELAN,Wenatchee,Wenatchee,0.6000,1200
+62522,WA,Washington,DOUGLAS,East Wenatchee,E Wenatchee,0.7000,1400
+62523,WA,Washington,DOUGLAS,East Wenatchee,Wenatchee,0.4500,900
+62524,WA,Washington,DOUGLAS,East Wenatchee,East Wenatchee,0.6200,1240
+62525,WA,Washington,CHELAN,Ardenvoir,Ardenvoir,0.4800,960
+62526,WA,Washington,OKANOGAN,Brewster,Brewster,0.6500,1300
+62527,WA,Washington,OKANOGAN,Brewster,Rocky Butte,0.5700,1140
+62528,WA,Washington,OKANOGAN,Brewster,Monse,0.5600,1120
+62529,WA,Washington,DOUGLAS,Bridgeport,Bridgeport,0.6200,1240
+62530,WA,Washington,OKANOGAN,Carlton,Carlton,0.4700,940
+62531,WA,Washington,CHELAN,Cashmere,Cashmere,0.4900,980
+62532,WA,Washington,CHELAN,Chelan,Chelan,0.5700,1140
+62533,WA,Washington,CHELAN,Chelan,Holden Village,0.6000,1200
+62534,WA,Washington,CHELAN,Chelan,Lakeside,0.4900,980
+62535,WA,Washington,CHELAN,Chelan,Lucerne,0.5100,1020
+62536,WA,Washington,CHELAN,Chelan Falls,Chelan Falls,0.5400,1080
+62537,WA,Washington,OKANOGAN,Conconully,Conconully,0.6200,1240
+62538,WA,Washington,CHELAN,Dryden,Dryden,0.4600,920
+62539,WA,Washington,CHELAN,Entiat,Entiat,0.6800,1360
+62540,WA,Washington,GRANT,Ephrata,Ephrata,0.6200,1240
+62541,WA,Washington,GRANT,George,George,0.7000,1400
+62542,WA,Washington,CHELAN,Leavenworth,Merritt,0.6500,1300
+62543,WA,Washington,CHELAN,Leavenworth,Chumstick,0.5700,1140
+62544,WA,Washington,CHELAN,Leavenworth,Winton,0.6600,1320
+62545,WA,Washington,CHELAN,Leavenworth,Blewett,0.7000,1400
+62546,WA,Washington,CHELAN,Leavenworth,Leavenworth,0.6000,1200
+62547,WA,Washington,CHELAN,Leavenworth,Telma,0.4600,920
+62548,WA,Washington,CHELAN,Leavenworth,Plain,0.5700,1140
+62549,WA,Washington,OKANOGAN,Loomis,Loomis,0.6900,1380
+62550,WA,Washington,CHELAN,Malaga,Malaga,0.6800,1360
+62551,WA,Washington,OKANOGAN,Malott,Malott,0.5000,1000
+62552,WA,Washington,DOUGLAS,Mansfield,Mansfield,0.4900,980
+62553,WA,Washington,CHELAN,Manson,Manson,0.5200,1040
+62554,WA,Washington,GRANT,Marlin,Marlin,0.6500,1300
+62555,WA,Washington,GRANT,Marlin,Krupp,0.6300,1260
+62556,WA,Washington,GRANT,Marlin,Ruff,0.6300,1260
+62557,WA,Washington,OKANOGAN,Mazama,Mazama,0.4500,900
+62558,WA,Washington,OKANOGAN,Methow,Methow,0.5400,1080
+62559,WA,Washington,CHELAN,Monitor,Monitor,0.6300,1260
+62560,WA,Washington,GRANT,Moses Lake,Raugust,0.5000,1000
+62561,WA,Washington,GRANT,Moses Lake,Moses Lake,0.6500,1300
+62562,WA,Washington,GRANT,Moses Lake,Mae,0.6100,1220
+62563,WA,Washington,GRANT,Moses Lake,Wheeler,0.4800,960
+62564,WA,Washington,OKANOGAN,Okanogan,Okanogan,0.5300,1060
+62565,WA,Washington,OKANOGAN,Omak,Disautel,0.6600,1320
+62566,WA,Washington,OKANOGAN,Omak,Omak,0.6400,1280
+62567,WA,Washington,DOUGLAS,Orondo,Orondo,0.7000,1400
+62568,WA,Washington,OKANOGAN,Oroville,Oroville,0.4600,920
+62569,WA,Washington,OKANOGAN,Oroville,Chesaw,0.5500,1100
+62570,WA,Washington,OKANOGAN,Oroville,Molson,0.6600,1320
+62571,WA,Washington,DOUGLAS,Palisades,Palisades,0.4500,900
+62572,WA,Washington,OKANOGAN,Pateros,Pateros,0.6300,1260
+62573,WA,Washington,OKANOGAN,Pateros,Azwell,0.5500,1100
+62574,WA,Washington,CHELAN,Peshastin,Peshastin,0.7000,1400
+62575,WA,Washington,GRANT,Quincy,George,0.4600,920
+62576,WA,Washington,GRANT,Quincy,Winchester,0.5100,1020
+62577,WA,Washington,GRANT,Quincy,Quincy,0.6700,1340
+62578,WA,Washington,GRANT,Quincy,Trinidad,0.4500,900
+62579,WA,Washington,OKANOGAN,Riverside,Synarep,0.4800,960
+62580,WA,Washington,OKANOGAN,Riverside,Riverside,0.5200,1040
+62581,WA,Washington,DOUGLAS,Rock Island,Rock Island,0.5400,1080
+62582,WA,Washington,GRANT,Soap Lake,Adco,0.5000,1000
+62583,WA,Washington,GRANT,Soap Lake,Adrian,0.5100,1020
+62584,WA,Washington,GRANT,Soap Lake,Soap Lake,0.6300,1260
+62585,WA,Washington,GRANT,Soap Lake,Lakeview Park,0.5400,1080
+62586,WA,Washington,CHELAN,Stehekin,Stehekin,0.5200,1040
+62587,WA,Washington,GRANT,Stratford,Stratford,0.6400,1280
+62588,WA,Washington,OKANOGAN,Tonasket,Aeneas,0.6200,1240
+62589,WA,Washington,OKANOGAN,Tonasket,Ellisford,0.5300,1060
+62590,WA,Washington,OKANOGAN,Tonasket,Havillah,0.6500,1300
+62591,WA,Washington,OKANOGAN,Tonasket,Tonasket,0.6900,1380
+62592,WA,Washington,OKANOGAN,Tonasket,Nighthawk,0.6900,1380
+62593,WA,Washington,OKANOGAN,Twisp,Twisp,0.6100,1220
+62594,WA,Washington,GRANT,Warden,Warden,0.4900,980
+62595,WA,Washington,DOUGLAS,Waterville,Douglas,0.6400,1280
+62596,WA,Washington,DOUGLAS,Waterville,Farmer,0.6500,1300
+62597,WA,Washington,DOUGLAS,Waterville,Withrow,0.6400,1280
+62598,WA,Washington,DOUGLAS,Waterville,Waterville,0.5800,1160
+62599,WA,Washington,OKANOGAN,Wauconda,Wauconda,0.6500,1300
+62600,WA,Washington,OKANOGAN,Wauconda,Bodie,0.6600,1320
+62601,WA,Washington,GRANT,Wilson Creek,Wilson Creek,0.5300,1060
+62602,WA,Washington,OKANOGAN,Winthrop,Winthrop,0.5500,1100
+62603,WA,Washington,YAKIMA,Yakima,Union Gap,0.6100,1220
+62604,WA,Washington,YAKIMA,Yakima,Yakima,0.5700,1140
+62605,WA,Washington,YAKIMA,Yakima,East Selah,0.4500,900
+62606,WA,Washington,YAKIMA,Yakima,Yakima Firing Center,0.5700,1140
+62607,WA,Washington,YAKIMA,Yakima,Sumach,0.6900,1380
+62608,WA,Washington,YAKIMA,Yakima,West Side,0.5100,1020
+62609,WA,Washington,YAKIMA,Yakima,Tampico,0.6800,1360
+62610,WA,Washington,YAKIMA,Yakima,Weikel,0.6100,1220
+62611,WA,Washington,YAKIMA,Yakima,Fruitvale,0.5300,1060
+62612,WA,Washington,YAKIMA,Yakima,Pomona,0.5300,1060
+62613,WA,Washington,YAKIMA,Yakima,Ahtanum,0.5400,1080
+62614,WA,Washington,YAKIMA,Yakima,Harwood,0.5500,1100
+62615,WA,Washington,YAKIMA,Yakima,South Broadway,0.7000,1400
+62616,WA,Washington,YAKIMA,Yakima,Fairview,0.5800,1160
+62617,WA,Washington,YAKIMA,Yakima,Gleed,0.5700,1140
+62618,WA,Washington,YAKIMA,Brownstown,Brownstown,0.5900,1180
+62619,WA,Washington,YAKIMA,Buena,Buena,0.7000,1400
+62620,WA,Washington,KITTITAS,Cle Elum,Liberty,0.4500,900
+62621,WA,Washington,KITTITAS,Cle Elum,Cle Elum,0.5500,1100
+62622,WA,Washington,KITTITAS,Cle Elum,Suncadia,0.6400,1280
+62623,WA,Washington,KITTITAS,Cle Elum,Teanaway,0.5800,1160
+62624,WA,Washington,YAKIMA,Cowiche,Cowiche,0.6500,1300
+62625,WA,Washington,KITTITAS,Easton,Easton,0.4900,980
+62626,WA,Washington,KITTITAS,Ellensburg,Thrali,0.6200,1240
+62627,WA,Washington,KITTITAS,Ellensburg,Ellensburg,0.6600,1320
+62628,WA,Washington,YAKIMA,Grandview,Grandview,0.4700,940
+62629,WA,Washington,YAKIMA,Granger,Granger,0.5800,1160
+62630,WA,Washington,YAKIMA,Harrah,Harrah,0.5900,1180
+62631,WA,Washington,KITTITAS,Kittitas,Kittitas,0.6300,1260
+62632,WA,Washington,YAKIMA,Mabton,Mabton,0.6000,1200
+62633,WA,Washington,YAKIMA,Moxee,Moxee City,0.5000,1000
+62634,WA,Washington,YAKIMA,Moxee,Moxee,0.5100,1020
+62635,WA,Washington,YAKIMA,Naches,Rimrock,0.4600,920
+62636,WA,Washington,YAKIMA,Naches,White Pass,0.5200,1040
+62637,WA,Washington,YAKIMA,Naches,Goose Prairie,0.6600,1320
+62638,WA,Washington,YAKIMA,Naches,Cliffdell,0.4500,900
+62639,WA,Washington,YAKIMA,Naches,Nile,0.6400,1280
+62640,WA,Washington,YAKIMA,Naches,Naches,0.6300,1260
+62641,WA,Washington,YAKIMA,Outlook,Outlook,0.5900,1180
+62642,WA,Washington,YAKIMA,Parker,Parker,0.5000,1000
+62643,WA,Washington,KITTITAS,Ronald,Ronald,0.6500,1300
+62644,WA,Washington,KITTITAS,Roslyn,Rocklyn,0.4700,940
+62645,WA,Washington,KITTITAS,Roslyn,Roslyn,0.6100,1220
+62646,WA,Washington,YAKIMA,Selah,Selah,0.5500,1100
+62647,WA,Washington,KITTITAS,South Cle Elum,S Cle Elum,0.4600,920
+62648,WA,Washington,KITTITAS,South Cle Elum,South Cle Elum,0.5200,1040
+62649,WA,Washington,YAKIMA,Sunnyside,Sunnyside,0.5400,1080
+62650,WA,Washington,KITTITAS,Thorp,Thorp,0.5200,1040
+62651,WA,Washington,YAKIMA,Tieton,Tieton,0.6500,1300
+62652,WA,Washington,YAKIMA,Toppenish,Toppenish,0.4500,900
+62653,WA,Washington,KITTITAS,Vantage,Doris,0.6200,1240
+62654,WA,Washington,KITTITAS,Vantage,Vantage,0.6900,1380
+62655,WA,Washington,KITTITAS,Vantage,Ellensburg,0.6700,1340
+62656,WA,Washington,YAKIMA,Wapato,Wapato,0.6800,1360
+62657,WA,Washington,YAKIMA,Wapato,Donald,0.5100,1020
+62658,WA,Washington,YAKIMA,Wapato,Sawyer,0.5600,1120
+62659,WA,Washington,YAKIMA,White Swan,White Swan,0.4900,980
+62660,WA,Washington,YAKIMA,Zillah,Zillah,0.7000,1400
+62661,WA,Washington,SPOKANE,Airway Heights,Airway Heights,0.6600,1320
+62662,WA,Washington,SPOKANE,Airway Heights,Airway Hgts,0.4900,980
+62663,WA,Washington,SPOKANE,Chattaroy,Chattaroy,0.4500,900
+62664,WA,Washington,SPOKANE,Chattaroy,Milan,0.6300,1260
+62665,WA,Washington,SPOKANE,Cheney,Cheney,0.6200,1240
+62666,WA,Washington,SPOKANE,Cheney,Tyler,0.4900,980
+62667,WA,Washington,SPOKANE,Cheney,Amber,0.6000,1200
+62668,WA,Washington,SPOKANE,Colbert,Colbert,0.6000,1200
+62669,WA,Washington,SPOKANE,Deer Park,Deer Park,0.6200,1240
+62670,WA,Washington,LINCOLN,Edwall,Edwall,0.5400,1080
+62671,WA,Washington,SPOKANE,Elk,Elk,0.5900,1180
+62672,WA,Washington,SPOKANE,Fairchild Air Force Base,Fairchild AFB,0.5100,1020
+62673,WA,Washington,SPOKANE,Fairchild Air Force Base,Fairchild Air Force Base,0.4500,900
+62674,WA,Washington,SPOKANE,Fairfield,Fairfield,0.5500,1100
+62675,WA,Washington,STEVENS,Ford,Ford,0.4600,920
+62676,WA,Washington,SPOKANE,Four Lakes,Four Lakes,0.6800,1360
+62677,WA,Washington,SPOKANE,Greenacres,Spo Valley,0.6200,1240
+62678,WA,Washington,SPOKANE,Greenacres,Spokane Valley,0.4900,980
+62679,WA,Washington,SPOKANE,Greenacres,Spokane Vly,0.5900,1180
+62680,WA,Washington,SPOKANE,Greenacres,Greenacres,0.6200,1240
+62681,WA,Washington,SPOKANE,Greenacres,Liberty Lake,0.6100,1220
+62682,WA,Washington,WHITMAN,Lamont,Sprague,0.7000,1400
+62683,WA,Washington,WHITMAN,Lamont,Lamont,0.4900,980
+62684,WA,Washington,SPOKANE,Latah,Latah,0.5200,1040
+62685,WA,Washington,SPOKANE,Liberty Lake,Liberty Lake,0.7000,1400
+62686,WA,Washington,SPOKANE,Marshall,Marshall,0.7000,1400
+62687,WA,Washington,SPOKANE,Mead,Mead,0.5600,1120
+62688,WA,Washington,SPOKANE,Mead,Green Bluff,0.5700,1140
+62689,WA,Washington,SPOKANE,Medical Lake,Espanola,0.6400,1280
+62690,WA,Washington,SPOKANE,Medical Lake,Medical Lake,0.5200,1040
+62691,WA,Washington,SPOKANE,Mica,Mica,0.6800,1360
+62692,WA,Washington,SPOKANE,Mica,Valleyford,0.7000,1400
+62693,WA,Washington,SPOKANE,Newman Lake,East Farms,0.4900,980
+62694,WA,Washington,SPOKANE,Newman Lake,Newman Lake,0.6100,1220
+62695,WA,Washington,SPOKANE,Nine Mile Falls,Nine Mile Fls,0.4600,920
+62696,WA,Washington,SPOKANE,Nine Mile Falls,Nine Mile Falls,0.5900,1180
+62697,WA,Washington,SPOKANE,Otis Orchards,City Of Spokane Valley,0.4900,980
+62698,WA,Washington,SPOKANE,Otis Orchards,Otis Orchards,0.5800,1160
+62699,WA,Washington,SPOKANE,Otis Orchards,Spokane Valley,0.5600,1120
+62700,WA,Washington,SPOKANE,Otis Orchards,Spokane Vly,0.6600,1320
+62701,WA,Washington,LINCOLN,Reardan,Reardan,0.6600,1320
+62702,WA,Washington,SPOKANE,Rockford,Rockford,0.4700,940
+62703,WA,Washington,SPOKANE,Spangle,Spangle,0.5900,1180
+62704,WA,Washington,LINCOLN,Sprague,Sprague,0.5400,1080
+62705,WA,Washington,WHITMAN,Tekoa,Tekoa,0.5600,1120
+62706,WA,Washington,STEVENS,Tumtum,Tumtum,0.4700,940
+62707,WA,Washington,STEVENS,Tumtum,Tum Tum,0.5500,1100
+62708,WA,Washington,SPOKANE,Valleyford,Valleyford,0.7000,1400
+62709,WA,Washington,SPOKANE,Veradale,City Of Spokane Valley,0.4700,940
+62710,WA,Washington,SPOKANE,Veradale,Spokane Valley,0.5500,1100
+62711,WA,Washington,SPOKANE,Veradale,Spokane Vly,0.5700,1140
+62712,WA,Washington,SPOKANE,Veradale,Veradale,0.6200,1240
+62713,WA,Washington,SPOKANE,Waverly,Waverly,0.7000,1400
+62714,WA,Washington,STEVENS,Wellpinit,Wellpinit,0.5500,1100
+62715,WA,Washington,STEVENS,Addy,Addy,0.7000,1400
+62716,WA,Washington,WHITMAN,Albion,Albion,0.6000,1200
+62717,WA,Washington,LINCOLN,Almira,Almira,0.6100,1220
+62718,WA,Washington,WHITMAN,Belmont,Farmington,0.6700,1340
+62719,WA,Washington,WHITMAN,Belmont,Belmont,0.6400,1280
+62720,WA,Washington,ADAMS,Benge,Benge,0.6700,1340
+62721,WA,Washington,FERRY,Boyds,Kettle Falls,0.5400,1080
+62722,WA,Washington,FERRY,Boyds,Boyds,0.6800,1360
+62723,WA,Washington,STEVENS,Chewelah,Chewelah,0.6500,1300
+62724,WA,Washington,STEVENS,Clayton,Clayton,0.4800,960
+62725,WA,Washington,WHITMAN,Colfax,Colfax,0.5300,1060
+62726,WA,Washington,WHITMAN,Colfax,Diamond,0.6800,1360
+62727,WA,Washington,WHITMAN,Colton,Colton,0.5000,1000
+62728,WA,Washington,STEVENS,Colville,Colville,0.5400,1080
+62729,WA,Washington,GRANT,Coulee City,Coulee City,0.5600,1120
+62730,WA,Washington,OKANOGAN,Coulee Dam,Mason City,0.6400,1280
+62731,WA,Washington,OKANOGAN,Coulee Dam,Coulee Dam,0.4600,920
+62732,WA,Washington,LINCOLN,Creston,Creston,0.6100,1220
+62733,WA,Washington,FERRY,Curlew,Curlew,0.5700,1140
+62734,WA,Washington,PEND OREILLE,Cusick,Cusick,0.4600,920
+62735,WA,Washington,FERRY,Danville,Danville,0.6500,1300
+62736,WA,Washington,LINCOLN,Davenport,Seven Bays,0.4900,980
+62737,WA,Washington,LINCOLN,Davenport,Deer Meadows,0.5300,1060
+62738,WA,Washington,LINCOLN,Davenport,Davenport,0.6200,1240
+62739,WA,Washington,GRANT,Electric City,Electric City,0.6100,1220
+62740,WA,Washington,OKANOGAN,Elmer City,Elmer City,0.7000,1400
+62741,WA,Washington,WHITMAN,Endicott,Endicott,0.5500,1100
+62742,WA,Washington,STEVENS,Evans,Evans,0.4800,960
+62743,WA,Washington,STEVENS,Evans,Kettle Falls,0.5200,1040
+62744,WA,Washington,WHITMAN,Farmington,Farmington,0.6000,1200
+62745,WA,Washington,STEVENS,Fruitland,Hunters,0.7000,1400
+62746,WA,Washington,STEVENS,Fruitland,Fruitland,0.6100,1220
+62747,WA,Washington,WHITMAN,Garfield,Garfield,0.5900,1180
+62748,WA,Washington,STEVENS,Gifford,Gifford,0.6900,1380
+62749,WA,Washington,GRANT,Grand Coulee,Grand Coulee,0.6900,1380
+62750,WA,Washington,LINCOLN,Harrington,Harrington,0.5100,1020
+62751,WA,Washington,GRANT,Hartline,Hartline,0.7000,1400
+62752,WA,Washington,WHITMAN,Hay,Hay,0.5100,1020
+62753,WA,Washington,STEVENS,Hunters,Cedonia,0.5100,1020
+62754,WA,Washington,STEVENS,Hunters,Hunters,0.6000,1200
+62755,WA,Washington,FERRY,Inchelium,Kewa,0.6600,1320
+62756,WA,Washington,FERRY,Inchelium,Inchelium,0.6600,1320
+62757,WA,Washington,PEND OREILLE,Ione,Ione,0.6000,1200
+62758,WA,Washington,FERRY,Keller,Keller,0.4900,980
+62759,WA,Washington,STEVENS,Kettle Falls,Kettle Falls,0.4700,940
+62760,WA,Washington,WHITMAN,Lacrosse,Lacrosse,0.6300,1260
+62761,WA,Washington,WHITMAN,Lacrosse,La Crosse,0.6000,1200
+62762,WA,Washington,LINCOLN,Lamona,Lamona,0.5700,1140
+62763,WA,Washington,LINCOLN,Lamona,Odessa,0.5600,1120
+62764,WA,Washington,FERRY,Laurier,Laurier,0.5000,1000
+62765,WA,Washington,LINCOLN,Lincoln,Creston,0.6500,1300
+62766,WA,Washington,LINCOLN,Lincoln,Lincoln,0.4500,900
+62767,WA,Washington,STEVENS,Loon Lake,Deer Lake,0.5600,1120
+62768,WA,Washington,STEVENS,Loon Lake,Loon Lake,0.5700,1140
+62769,WA,Washington,WHITMAN,Malden,Malden,0.6300,1260
+62770,WA,Washington,FERRY,Malo,Malo,0.4800,960
+62771,WA,Washington,STEVENS,Marcus,Marcus,0.6700,1340
+62772,WA,Washington,PEND OREILLE,Metaline,Metaline,0.5600,1120
+62773,WA,Washington,PEND OREILLE,Metaline Falls,Metaline Falls,0.6800,1360
+62774,WA,Washington,PEND OREILLE,Metaline Falls,Metaline Fls,0.4500,900
+62775,WA,Washington,LINCOLN,Mohler,Mohler,0.6900,1380
+62776,WA,Washington,LINCOLN,Mohler,Harrington,0.6600,1320
+62777,WA,Washington,OKANOGAN,Nespelem,Nespelem,0.7000,1400
+62778,WA,Washington,PEND OREILLE,Newport,Newport,0.4800,960
+62779,WA,Washington,STEVENS,Northport,Northport,0.5100,1020
+62780,WA,Washington,WHITMAN,Oakesdale,Oakesdale,0.5000,1000
+62781,WA,Washington,LINCOLN,Odessa,Odessa,0.6300,1260
+62782,WA,Washington,FERRY,Orient,Orient,0.5700,1140
+62783,WA,Washington,FERRY,Orient,Kettle Falls,0.6300,1260
+62784,WA,Washington,WHITMAN,Palouse,Palouse,0.6000,1200
+62785,WA,Washington,WHITMAN,Pullman,Pullman,0.5200,1040
+62786,WA,Washington,WHITMAN,Pullman,Washington State University,0.5600,1120
+62787,WA,Washington,FERRY,Republic,Republic,0.4500,900
+62788,WA,Washington,STEVENS,Rice,Rice,0.6200,1240
+62789,WA,Washington,ADAMS,Ritzville,Ritzville,0.5100,1020
+62790,WA,Washington,WHITMAN,Rosalia,Rosalia,0.6600,1320
+62791,WA,Washington,WHITMAN,Rosalia,Plaza,0.6400,1280
+62792,WA,Washington,WHITMAN,Saint John,Saint John,0.5300,1060
+62793,WA,Washington,STEVENS,Springdale,Springdale,0.6000,1200
+62794,WA,Washington,WHITMAN,Steptoe,Steptoe,0.6500,1300
+62795,WA,Washington,WHITMAN,Thornton,Thornton,0.6700,1340
+62796,WA,Washington,WHITMAN,Uniontown,Uniontown,0.5800,1160
+62797,WA,Washington,PEND OREILLE,Usk,Usk,0.4900,980
+62798,WA,Washington,STEVENS,Valley,Valley,0.4500,900
+62799,WA,Washington,LINCOLN,Wilbur,Wilbur,0.4600,920
+62800,WA,Washington,SPOKANE,Spokane,Spokane,0.6400,1280
+62801,WA,Washington,SPOKANE,Spokane,Liberty Park,0.5300,1060
+62802,WA,Washington,SPOKANE,Spokane,Manito,0.6000,1200
+62803,WA,Washington,SPOKANE,Spokane,Shadle Garland,0.4900,980
+62804,WA,Washington,SPOKANE,Spokane,City Of Spokane Valley,0.5100,1020
+62805,WA,Washington,SPOKANE,Spokane,Spokane Valley,0.5100,1020
+62806,WA,Washington,SPOKANE,Spokane,Spokane Vly,0.6200,1240
+62807,WA,Washington,SPOKANE,Spokane,Cty Spok Val,0.4800,960
+62808,WA,Washington,SPOKANE,Spokane,Millwood,0.5600,1120
+62809,WA,Washington,SPOKANE,Spokane,Sunset Hill,0.6000,1200
+62810,WA,Washington,SPOKANE,Spokane,Whitworth University,0.6700,1340
+62811,WA,Washington,SPOKANE,Spokane,Avista Corp,0.5800,1160
+62812,WA,Washington,SPOKANE,Spokane,Spokane City Trea,0.6200,1240
+62813,WA,Washington,SPOKANE,Spokane,Gonzaga Univ,0.6300,1260
+62814,WA,Washington,SPOKANE,Spokane,Public Safety Bldg,0.5500,1100
+62815,WA,Washington,SPOKANE,Spokane,Spokane Closed District,0.5000,1000
+62816,WA,Washington,FRANKLIN,Pasco,Pasco,0.5900,1180
+62817,WA,Washington,FRANKLIN,Pasco,Tri Cities,0.6600,1320
+62818,WA,Washington,BENTON,Benton City,Benton City,0.4500,900
+62819,WA,Washington,BENTON,Benton City,Kiona,0.6300,1260
+62820,WA,Washington,GRANT,Beverly,Schawana,0.6000,1200
+62821,WA,Washington,GRANT,Beverly,Beverly,0.6700,1340
+62822,WA,Washington,KLICKITAT,Bickleton,Bickleton,0.5100,1020
+62823,WA,Washington,WALLA WALLA,Burbank,Burbank,0.4600,920
+62824,WA,Washington,WALLA WALLA,College Place,College Place,0.5900,1180
+62825,WA,Washington,FRANKLIN,Connell,Connell,0.7000,1400
+62826,WA,Washington,COLUMBIA,Dayton,Dayton,0.6400,1280
+62827,WA,Washington,WALLA WALLA,Dixie,Dixie,0.5700,1140
+62828,WA,Washington,FRANKLIN,Eltopia,Eltopia,0.6400,1280
+62829,WA,Washington,WHITMAN,Hooper,Hooper,0.5600,1120
+62830,WA,Washington,FRANKLIN,Kahlotus,Kahlotus,0.5100,1020
+62831,WA,Washington,BENTON,Kennewick,Kenn,0.4900,980
+62832,WA,Washington,BENTON,Kennewick,Finley,0.4900,980
+62833,WA,Washington,BENTON,Kennewick,Kennewick,0.4600,920
+62834,WA,Washington,ADAMS,Lind,Lind,0.6700,1340
+62835,WA,Washington,FRANKLIN,Mesa,Basin City,0.4900,980
+62836,WA,Washington,FRANKLIN,Mesa,Mesa,0.6800,1360
+62837,WA,Washington,ADAMS,Othello,Hatton,0.4900,980
+62838,WA,Washington,ADAMS,Othello,Royal Slope,0.5700,1140
+62839,WA,Washington,ADAMS,Othello,Othello,0.6800,1360
+62840,WA,Washington,BENTON,Paterson,Paterson,0.4700,940
+62841,WA,Washington,BENTON,Plymouth,Plymouth,0.5600,1120
+62842,WA,Washington,GARFIELD,Pomeroy,Pomeroy,0.5700,1140
+62843,WA,Washington,WALLA WALLA,Prescott,Prescott,0.6500,1300
+62844,WA,Washington,GRANT,Mattawa,Desert Aire,0.5400,1080
+62845,WA,Washington,GRANT,Mattawa,Mattawa,0.6400,1280
+62846,WA,Washington,BENTON,Prosser,Prosser,0.5000,1000
+62847,WA,Washington,BENTON,Prosser,North Prosser,0.6400,1280
+62848,WA,Washington,BENTON,Richland,Hanford Works,0.6100,1220
+62849,WA,Washington,BENTON,Richland,West Richland,0.6000,1200
+62850,WA,Washington,BENTON,Richland,Richland,0.5400,1080
+62851,WA,Washington,BENTON,West Richland,Richland,0.5500,1100
+62852,WA,Washington,BENTON,West Richland,West Richland,0.5200,1040
+62853,WA,Washington,KLICKITAT,Roosevelt,Roosevelt,0.6800,1360
+62854,WA,Washington,GRANT,Royal City,Royal City,0.6400,1280
+62855,WA,Washington,COLUMBIA,Starbuck,Starbuck,0.5400,1080
+62856,WA,Washington,WALLA WALLA,Touchet,Touchet,0.5400,1080
+62857,WA,Washington,WALLA WALLA,Touchet,Lowden,0.6800,1360
+62858,WA,Washington,WALLA WALLA,Waitsburg,Waitsburg,0.5600,1120
+62859,WA,Washington,WALLA WALLA,Walla Walla,Walla Walla,0.5500,1100
+62860,WA,Washington,WALLA WALLA,Wallula,Wallula,0.4600,920
+62861,WA,Washington,ADAMS,Washtucna,Washtucna,0.6300,1260
+62862,WA,Washington,ASOTIN,Anatone,Anatone,0.4800,960
+62863,WA,Washington,ASOTIN,Asotin,Asotin,0.5000,1000
+62864,WA,Washington,ASOTIN,Clarkston,Clarkston,0.6300,1260
