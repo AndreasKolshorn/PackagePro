@@ -1,0 +1,24 @@
+﻿UID,StateCode,StateName,County,City,Aggregator,PricePerPound,PricePerTon
+61702,WA,Washington,KING,Bellevue,Bellevue,0.6800,1360
+61703,WA,Washington,KING,Bellevue,Clyde Hill,0.6900,1380
+61704,WA,Washington,KING,Bellevue,Hunts Point,0.5900,1180
+61705,WA,Washington,KING,Bellevue,Beaux Arts,0.4900,980
+61706,WA,Washington,KING,Bellevue,Beaux Arts Village,0.6700,1340
+61707,WA,Washington,KING,Bellevue,Yarrow Point,0.5700,1140
+61708,WA,Washington,KING,Bellevue,Newport Hills,0.4600,920
+61709,WA,Washington,KING,Bellevue,Eastgate,0.4800,960
+61712,WA,Washington,KING,Bothell,Inglewood,0.6500,1300
+61713,WA,Washington,KING,Bothell,Queensgate,0.6600,1320
+61714,WA,Washington,KING,Bothell,Bothell,0.5900,1180
+61746,WA,Washington,KING,Kirkland,Totem Lake,0.6200,1240
+61747,WA,Washington,KING,Kirkland,Houghton,0.5900,1180
+61748,WA,Washington,KING,Kirkland,Kirkland,0.5900,1180
+61749,WA,Washington,KING,Kirkland,Juanita,0.5600,1120
+61750,WA,Washington,KING,Kirkland,Kingsgate,0.5800,1160
+61771,WA,Washington,KING,Redmond,Adelaide,0.7000,1400
+61772,WA,Washington,KING,Redmond,Avondale,0.4800,960
+61773,WA,Washington,KING,Redmond,Ames Lake,0.5600,1120
+61774,WA,Washington,KING,Redmond,Earlmount,0.6300,1260
+61775,WA,Washington,KING,Redmond,Redmond,0.6200,1240
+61795,WA,Washington,KING,Woodinville,Cottage Lake,0.6500,1300
+61796,WA,Washington,KING,Woodinville,Woodinville,0.6700,1340

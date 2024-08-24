@@ -1,0 +1,149 @@
+﻿UID,StateCode,StateName,County,City,Aggregator,PricePerPound,PricePerTon
+61697,WA,Washington,KING,Auburn,Algona,0.6600,1320
+61698,WA,Washington,KING,Auburn,Federal Way,0.5100,1020
+61699,WA,Washington,KING,Auburn,Auburn,0.4800,960
+61700,WA,Washington,KING,Federal Way,Federal Way,0.5300,1060
+61701,WA,Washington,KING,Federal Way,Auburn,0.5500,1100
+61702,WA,Washington,KING,Bellevue,Bellevue,0.6800,1360
+61703,WA,Washington,KING,Bellevue,Clyde Hill,0.6900,1380
+61704,WA,Washington,KING,Bellevue,Hunts Point,0.5900,1180
+61705,WA,Washington,KING,Bellevue,Beaux Arts,0.4900,980
+61706,WA,Washington,KING,Bellevue,Beaux Arts Village,0.6700,1340
+61707,WA,Washington,KING,Bellevue,Yarrow Point,0.5700,1140
+61708,WA,Washington,KING,Bellevue,Newport Hills,0.4600,920
+61709,WA,Washington,KING,Bellevue,Eastgate,0.4800,960
+61710,WA,Washington,KING,Black Diamond,Black Diamond,0.5100,1020
+61711,WA,Washington,KING,Black Diamond,Morganville,0.4500,900
+61712,WA,Washington,KING,Bothell,Inglewood,0.6500,1300
+61713,WA,Washington,KING,Bothell,Queensgate,0.6600,1320
+61714,WA,Washington,KING,Bothell,Bothell,0.5900,1180
+61717,WA,Washington,KING,Burton,Vashon,0.5800,1160
+61718,WA,Washington,KING,Burton,Burton,0.6400,1280
+61719,WA,Washington,KING,Carnation,Lake Joy,0.5800,1160
+61720,WA,Washington,KING,Carnation,Carnation,0.4500,900
+61721,WA,Washington,KING,Duvall,Duvall,0.6000,1200
+61727,WA,Washington,KING,Enumclaw,Greenwater,0.6300,1260
+61728,WA,Washington,KING,Enumclaw,Wabash,0.6400,1280
+61729,WA,Washington,KING,Enumclaw,Cumberland,0.5500,1100
+61730,WA,Washington,KING,Enumclaw,Osceola,0.7000,1400
+61731,WA,Washington,KING,Enumclaw,Enumclaw,0.4500,900
+61732,WA,Washington,KING,Enumclaw,Krain,0.6300,1260
+61733,WA,Washington,KING,Enumclaw,Crystal Mountain,0.6700,1340
+61734,WA,Washington,KING,Fall City,Lake Alice,0.5800,1160
+61735,WA,Washington,KING,Fall City,Fall City,0.4500,900
+61736,WA,Washington,KING,Fall City,Spring Glen,0.4700,940
+61737,WA,Washington,KING,Hobart,Hobart,0.5000,1000
+61738,WA,Washington,KING,Issaquah,Coal Creek,0.5100,1020
+61739,WA,Washington,KING,Issaquah,Issaquah,0.5800,1160
+61740,WA,Washington,KING,Issaquah,Pine Lake,0.4500,900
+61741,WA,Washington,KING,Kenmore,Kenmore,0.5100,1020
+61742,WA,Washington,KING,Kenmore,Bothell,0.5900,1180
+61743,WA,Washington,KING,Kent,Kent,0.6800,1360
+61744,WA,Washington,KING,Kent,Midway,0.6000,1200
+61745,WA,Washington,KING,Kent,Woodmont Beach,0.4500,900
+61746,WA,Washington,KING,Kirkland,Totem Lake,0.6200,1240
+61747,WA,Washington,KING,Kirkland,Houghton,0.5900,1180
+61748,WA,Washington,KING,Kirkland,Kirkland,0.5900,1180
+61749,WA,Washington,KING,Kirkland,Juanita,0.5600,1120
+61750,WA,Washington,KING,Kirkland,Kingsgate,0.5800,1160
+61753,WA,Washington,KING,Maple Valley,Wilderness Village,0.6500,1300
+61754,WA,Washington,KING,Maple Valley,Maple Valley,0.4800,960
+61755,WA,Washington,KING,Maple Valley,Four Corners,0.5900,1180
+61756,WA,Washington,KING,Medina,Medina,0.5300,1060
+61757,WA,Washington,KING,Mercer Island,Mercer Island,0.5600,1120
+61758,WA,Washington,KING,Kent,Covington,0.5400,1080
+61759,WA,Washington,KING,Kent,Lake Sawyer,0.6900,1380
+61762,WA,Washington,KING,North Bend,Denny Creek,0.6700,1340
+61763,WA,Washington,KING,North Bend,North Bend,0.5800,1160
+61764,WA,Washington,KING,North Bend,Cedar Falls,0.5200,1040
+61765,WA,Washington,KING,Pacific,Auburn,0.6200,1240
+61766,WA,Washington,KING,Pacific,Pacific,0.5600,1120
+61767,WA,Washington,KING,Preston,Preston,0.6600,1320
+61768,WA,Washington,KING,Ravensdale,Kanaskat,0.5300,1060
+61769,WA,Washington,KING,Ravensdale,Palmer,0.6800,1360
+61770,WA,Washington,KING,Ravensdale,Ravensdale,0.5100,1020
+61771,WA,Washington,KING,Redmond,Adelaide,0.7000,1400
+61772,WA,Washington,KING,Redmond,Avondale,0.4800,960
+61773,WA,Washington,KING,Redmond,Ames Lake,0.5600,1120
+61774,WA,Washington,KING,Redmond,Earlmount,0.6300,1260
+61775,WA,Washington,KING,Redmond,Redmond,0.6200,1240
+61776,WA,Washington,KING,Renton,Renton,0.4800,960
+61777,WA,Washington,KING,Renton,Highlands,0.5600,1120
+61778,WA,Washington,KING,Renton,Newcastle,0.7000,1400
+61779,WA,Washington,KING,Renton,Hazelwood,0.5000,1000
+61780,WA,Washington,KING,Renton,Kennydale,0.6700,1340
+61781,WA,Washington,KING,Renton,Fairwood,0.4500,900
+61782,WA,Washington,KING,Renton,Cascade,0.6900,1380
+61785,WA,Washington,KING,Seahurst,Seahurst,0.6500,1300
+61786,WA,Washington,KING,Seahurst,Burien,0.5300,1060
+61787,WA,Washington,KING,Snoqualmie,Snoqualmie,0.6300,1260
+61792,WA,Washington,KING,Vashon,Dockton,0.5600,1120
+61793,WA,Washington,KING,Vashon,Vashon Island,0.5400,1080
+61794,WA,Washington,KING,Vashon,Vashon,0.5100,1020
+61795,WA,Washington,KING,Woodinville,Cottage Lake,0.6500,1300
+61796,WA,Washington,KING,Woodinville,Woodinville,0.6700,1340
+61797,WA,Washington,KING,Sammamish,Redmond,0.5300,1060
+61798,WA,Washington,KING,Sammamish,Sammamish,0.6300,1260
+61799,WA,Washington,KING,Sammamish,Issaquah,0.6500,1300
+61802,WA,Washington,KING,Seattle,Seattle,0.5100,1020
+61803,WA,Washington,KING,Seattle,Times Square,0.6300,1260
+61804,WA,Washington,KING,Seattle,Broadway,0.6900,1380
+61805,WA,Washington,KING,Seattle,Capitol Hill,0.6900,1380
+61806,WA,Washington,KING,Seattle,Wallingford,0.6700,1340
+61807,WA,Washington,KING,Seattle,Greenwood,0.6700,1340
+61808,WA,Washington,KING,Seattle,International,0.5000,1000
+61809,WA,Washington,KING,Seattle,Pioneer Square,0.4600,920
+61810,WA,Washington,KING,Seattle,University,0.5100,1020
+61811,WA,Washington,KING,Seattle,White Center,0.6000,1200
+61812,WA,Washington,KING,Seattle,Ballard,0.6000,1200
+61813,WA,Washington,KING,Seattle,Tukwila,0.5100,1020
+61814,WA,Washington,KING,Seattle,Queen Anne,0.7000,1400
+61818,WA,Washington,KING,Seattle,Madison Park,0.5000,1000
+61819,WA,Washington,KING,Seattle,Wedgwood,0.5100,1020
+61820,WA,Washington,KING,Seattle,Seattle Naval Support Activi,0.6700,1340
+61821,WA,Washington,KING,Seattle,West Seattle,0.5200,1040
+61822,WA,Washington,KING,Seattle,Crown Hill,0.6900,1380
+61823,WA,Washington,KING,Seattle,Columbia,0.6400,1280
+61824,WA,Washington,KING,Seattle,Interbay,0.4600,920
+61825,WA,Washington,KING,Seattle,East Union,0.4800,960
+61826,WA,Washington,KING,Seattle,Lake City,0.6000,1200
+61827,WA,Washington,KING,Seattle,Northgate,0.4900,980
+61828,WA,Washington,KING,Seattle,Westwood Village,0.5700,1140
+61829,WA,Washington,KING,Seattle,Reg Lib Handicapped,0.6500,1300
+61830,WA,Washington,KING,Seattle,Richmond Highlands,0.5400,1080
+61831,WA,Washington,KING,Seattle,Shoreline,0.6200,1240
+61832,WA,Washington,KING,Seattle,Bitter Lake,0.6400,1280
+61833,WA,Washington,KING,Seattle,Westwood,0.6400,1280
+61834,WA,Washington,KING,Seattle,Beacon Hill,0.6200,1240
+61835,WA,Washington,KING,Seattle,Burien,0.5000,1000
+61836,WA,Washington,KING,Seattle,Shorewood,0.6900,1380
+61837,WA,Washington,KING,Seattle,Des Moines,0.5700,1140
+61838,WA,Washington,KING,Seattle,Seatac,0.6500,1300
+61839,WA,Washington,KING,Seattle,Normandy Park,0.4500,900
+61840,WA,Washington,KING,Seattle,Lake Forest Park,0.6800,1360
+61841,WA,Washington,KING,Seattle,Forest Park,0.5400,1080
+61842,WA,Washington,KING,Seattle,Lk Forest Park,0.4600,920
+61843,WA,Washington,KING,Seattle,North City,0.5800,1160
+61844,WA,Washington,KING,Seattle,Lk Forest Pk,0.4600,920
+61845,WA,Washington,KING,Seattle,Seatac Airport,0.5000,1000
+61846,WA,Washington,KING,Seattle,Richmond Beach,0.4900,980
+61847,WA,Washington,KING,Seattle,Amazon.com,0.5100,1020
+61848,WA,Washington,KING,Seattle,The Highlands,0.5200,1040
+61849,WA,Washington,KING,Seattle,Skyway,0.6200,1240
+61850,WA,Washington,KING,Seattle,Bryn Mawr,0.5400,1080
+61851,WA,Washington,KING,Seattle,Macys,0.6300,1260
+61852,WA,Washington,KING,Seattle,Safeco Plaza,0.5000,1000
+61853,WA,Washington,KING,Seattle,Duwamish,0.4900,980
+61854,WA,Washington,KING,Seattle,Mcmicken Heights,0.6300,1260
+61855,WA,Washington,KING,Seattle,Riverton,0.4500,900
+61856,WA,Washington,KING,Seattle,Diagnos Techs Inc Mrs,0.6800,1360
+61857,WA,Washington,KING,Seattle,Capital One,0.4700,940
+61858,WA,Washington,KING,Seattle,Qwest,0.5100,1020
+61859,WA,Washington,KING,Seattle,Univ Of Washington,0.6800,1360
+61860,WA,Washington,KING,Seattle,Redondo Beach,0.5100,1020
+61861,WA,Washington,KING,Seattle,Magnolia,0.6300,1260
+61862,WA,Washington,KING,Seattle,Fort Lawton,0.5300,1060
+61883,WA,Washington,KING,Baring,Baring,0.4800,960
+61968,WA,Washington,KING,Skykomish,Skykomish,0.5100,1020
+61969,WA,Washington,KING,Skykomish,Grotto,0.6200,1240
+61970,WA,Washington,KING,Skykomish,Scenic,0.5600,1120
